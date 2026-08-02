@@ -2,7 +2,7 @@ Lecture and other material for GOVT2306 United States and Texas Constitution and
 
 - Lecture materials are coded in Quarto for RStudio using the most cross compatible output Markdown possible. Rendered lectures are not provided.
 - Other materials may be in Quarto format or raw Markdown files.
-- This only about half the material for the course.
+- This is only about half the material for the course.
 
     - I assign outside readings which I will attempt to reference here, but which I will not reproduce unless they are my own work.
     - I use two textbooks chosen by the department and which include electronic Courseware.
