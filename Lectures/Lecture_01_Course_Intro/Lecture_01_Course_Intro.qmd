@@ -234,7 +234,7 @@ The system is built so late work and makeups run without special deals. Asking f
 Cramming once does not work. Short, repeated review does.
 
 - Start Inquizitives early; revisit them before exams
-- Use flashcards a few minutes, a few times a week
+- Make and use flashcards a few minutes, a few times a week
 - Rewrite ideas in your own words
 - Ask in class or at office hours when stuck
 
@@ -251,7 +251,7 @@ Cramming once does not work. Short, repeated review does.
 ## Before you leave campus today / this week
 
 1. Open Canvas → this course → **Module 0**
-2. Register textbook access (CTAP or as directed)
+2. Register textbook access → **Module 0** 
 3. Register **Top Hat through the Canvas link**
 4. Complete required Module 0 quizzes
 5. Deadline: **September 9, 2026 (ORD)** — no extensions for drop protection
