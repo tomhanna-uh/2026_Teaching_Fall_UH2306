@@ -7,7 +7,7 @@ Separate from slides. Use if you lose the thread in a large hall.
 
 ## Goals
 
-1. Deliver the empowerment promise: students can explain why government uniquely may legally coerce.
+1. Students can explain how government gets things done differently from every other organization.
 2. Separate everyday "politics = campaigns" from politics as collective decisions in the coercive sphere.
 3. Localize with Houston / UH examples (public works, Metro, campus).
 4. Leave a clear bridge to Basic Ethics (force and legitimacy).
@@ -44,9 +44,19 @@ Separate from slides. Use if you lose the thread in a large hall.
 - Group 2: force without legitimacy.
 - Key questions: enforcement for Group 1; accountability and moral status for Group 2.
 
-## The State
+## Definition slides (you speak; slides are one word)
 
-- Four elements of the definition: organized, coercive, violent force, legitimacy.
+**Full definition on screen first**, then four word slides:
+
+| Slide | You say (roughly) |
+|-------|-------------------|
+| **Organized** | Not random individuals. Structure, roles, continuity — an institution that outlasts whoever holds office. |
+| **Coercive** | Not a request or suggestion. Backed by the ability to compel, including against your will. |
+| **Physical Force** | Ultimately police, courts, prisons, military. Fines and orders matter because physical enforcement stands behind them. |
+| **Legitimate** | Commonly accepted as rightful by enough people that the system holds. Same force without legitimacy = crime, vigilantism, or terror — not government. |
+
+Then **Putting it together**: all four parts; that combination is what other organizations lack.
+
 - Politics = collective decisions *in that context*.
 - Voluntary vs coercive spheres — politics is about the coercive sphere.
 
@@ -75,7 +85,7 @@ Separate from slides. Use if you lose the thread in a large hall.
 | Words + popular view + local images | 12–15 |
 | Power (incl. images) | 8–10 |
 | Collective action + other orgs | 15–18 |
-| State definition + two spheres | 10–12 |
+| Definition + four word slides + spheres | 10–12 |
 | Top Hat items (optional) | 5–8 |
 | Systems walkthrough + next class | 8–10 |
 
@@ -83,6 +93,6 @@ Separate from slides. Use if you lose the thread in a large hall.
 
 ## Recovery prompts
 
-- "What can government do that a church or business cannot lawfully do?" → coerce with legitimate force.
+- "How does government get things done differently?" → organized coercive physical force treated as legitimate.
 - "Is Metro rail politics?" → Yes; collective decision in the coercive sphere.
 - "Next class is about what?" → Ethics of force; their own standards, not the statute book.
