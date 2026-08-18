@@ -1,0 +1,25 @@
+---
+title: "Lecture 22: Texas Policies (or Catch-up)"
+subtitle: "GOVT2306: US and Texas Constitution and Politics"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+# Texas Policies (or Catch-up)
+
+## Placeholder
+
+**UH only.** Book-driven; flexible catch-up day.

@@ -1,0 +1,25 @@
+---
+title: "Lecture 24: Ethics of the Citizen"
+subtitle: "GOVT2306: US and Texas Constitution and Politics"
+author: "Instructor: Tom Hanna"
+date: "Fall 2026"
+format:
+  revealjs:
+    self-contained: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.jpg
+    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
+  html:
+    toc: true
+---
+
+# Ethics of the Citizen
+
+## Placeholder
+
+Content to be developed (Winston-style shared core).
