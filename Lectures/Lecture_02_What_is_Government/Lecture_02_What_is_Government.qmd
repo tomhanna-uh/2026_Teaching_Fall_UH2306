@@ -98,7 +98,6 @@ The process of making collective decisions in the context of the state or govern
 
 # Politics Is Powerful
 
-
 ## Politics Is Powerful
 
 - Immense power to achieve good ends
@@ -129,22 +128,16 @@ Power
 ## What Does Government Do?
 
 ::: {.custom-style style="font-size: 70px;"}
-
 These are all examples of *collective action* — organized action by a group of people to achieve a common goal.
-
 :::
 
 ## What Makes Government Different?
 
 ::: {.custom-style style="font-size: 65px;"}
-
 What makes government or The State different from other organizations? Is collective action unique to government?
-
-
 :::
 
 # Other Organizations
-
 
 ## Other Organizations - Group 1
 
@@ -160,38 +153,69 @@ What makes government or The State different from other organizations? Is collec
 - Vigilantes
 - Terrorists
 
-
 ## Key Questions
 
 - For Group 1 organizations: How can they enforce their rules?
 
 - For Group 2 organizations: Who are they responsible to, and how do we view their use of force?
 
-# The State
+# The State / Government
 
-## What Is "the State"?
+## What Is Government?
 
-**The organized, coercive use of violent force commonly accepted as legitimate**
+::: {.custom-style style="font-size: 55px;"}
+The organized coercive use of physical (violent) force that is commonly accepted as legitimate
+:::
+
+## Key terms in the definition
 
 - Organized
-- Coercive use
-- Violent force (armed force)
-- Legitimacy
+- Coercive
+- Physical (violent) force
+- Legitimate
+
+## Organized
+
+Not random individuals acting alone.
+
+Structure, roles, continuity — an institution that outlasts any one person in office.
+
+## Coercive
+
+Not a request. Not a suggestion.
+
+Compliance is backed by the ability to compel — including against your will.
+
+## Physical (violent) force
+
+Ultimately rooted in physical power: police, courts, prisons, military.
+
+Fines and orders matter because physical enforcement stands behind them.
+
+## Legitimate
+
+Commonly accepted as rightful — by enough people that the system holds.
+
+Same force without legitimacy is crime, vigilantism, or terror — not government.
+
+## Putting it together
+
+::: {.custom-style style="font-size: 55px;"}
+Government = organized + coercive + physical force + legitimacy
+:::
+
+That combination is what other organizations lack.
 
 ## What Is Politics?
 
 ::: {.custom-style style="font-size: 65px;"}
-
 Politics is the process of making collective decisions in the context of...
-
 :::
 
 ## What Is Politics?
 
 ::: {.custom-style style="font-size: 65px;"}
-
 Politics is the process of making collective decisions in the context of the State or government.
-
 :::
 
 ## The Difference
@@ -204,7 +228,7 @@ These organizations all engage in collective action, but lack one thing the stat
 - Charities
 - Businesses — The Market
 
-**Coercive use of violent force**
+**Coercive use of physical force treated as legitimate**
 
 ## Two Spheres
 
@@ -212,7 +236,7 @@ These organizations all engage in collective action, but lack one thing the stat
 Family, church, market, charities...
 
 **Coercive Sphere**  
-The State
+The State / government
 
 ## Politics Is About
 
@@ -224,22 +248,22 @@ Making collective decisions in **the Coercive Sphere**
 
 ## Text bank: Government vs other organizations
 
-Government is distinct from family, churches, businesses, charities, and community groups because it can use organized, coercive force that is widely treated as legitimate. Other groups rely mainly on voluntary compliance, social pressure, exit, or market incentives. Groups that use force without legitimacy (organized crime, vigilantes, terrorists) are not accepted as the state. Politics is the process of making collective decisions inside that coercive sphere — not only campaigns and elections, and not only distant national headlines. Local roads, transit, campus rules, and public works are politics too.
+Government is the organized coercive use of physical (violent) force that is commonly accepted as legitimate. That is what distinguishes it from family, churches, businesses, charities, and community groups, which rely mainly on voluntary compliance, social pressure, exit, or market incentives. Groups that use force without legitimacy (organized crime, vigilantes, terrorists) are not accepted as government. Politics is the process of making collective decisions inside that coercive sphere — not only campaigns and elections, and not only distant national headlines. Local roads, transit, campus rules, and public works are politics too.
 
 ## Top Hat questions (auto-scored)
 
-**T/F:** Government is the only organization that can legally force you to do something against your will.  
+**T/F:** Government is defined in this course as the organized coercive use of physical force that is commonly accepted as legitimate.  
 *Answer: True*
 
 **T/F:** Politics only happens in Washington, D.C., or Austin during election years.  
 *Answer: False*
 
-**Multiple choice:** In political science usage in this course, "the State" primarily means:  
-A) Texas only  
-B) Any independent country on a map  
-C) The organized, coercive government treated as legitimate  
-D) The Democratic or Republican party in power  
-*Answer: C*
+**Multiple choice:** Which element of the definition separates government from a criminal gang that also uses force?  
+A) Organized  
+B) Coercive  
+C) Physical force  
+D) Legitimacy (commonly accepted as rightful)  
+*Answer: D*
 
 **Multiple answer:** Which of the following are usually in the *voluntary* sphere?  
 A) A church congregation  
@@ -248,10 +272,10 @@ C) A private business selling groceries
 D) A charity food bank  
 *Answers: A, C, D*
 
-**Multiple choice:** What do family, church, market firms, and charities lack that the state has?  
+**Multiple choice:** What do family, church, market firms, and charities lack that government has?  
 A) Collective action  
 B) Rules  
-C) Coercive use of violent force treated as legitimate  
+C) Organized coercive physical force treated as legitimate  
 D) Leaders  
 *Answer: C*
 
