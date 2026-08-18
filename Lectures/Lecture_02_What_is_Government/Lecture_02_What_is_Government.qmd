@@ -31,25 +31,19 @@ format:
 ## Why This Matters
 
 ::: {.custom-style style="font-size: 65px;"}
-By the end of today you will be able to explain  
-why government is different from every other organization  
-in the way it gets things done.
+By the end of today you will be able to explain why government is different from every other organization in the way it gets things done.
 :::
 
 ## The Core Question
 
 ::: {.custom-style style="font-size: 70px;"}
-What makes government different  
-from every other group of people  
-who try to get things done?
+What makes government different from every other group of people who try to get things done?
 :::
 
 ## Before You Walked Onto Campus
 
 ::: {.custom-style style="font-size: 70px;"}
-Before stepping on the campus today,  
-what was the last time that politics  
-made a difference in your life?
+Before stepping on the campus today, what was the last time that politics made a difference in your life?
 :::
 
 # A Word on Words
