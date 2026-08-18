@@ -1,15 +1,16 @@
 ---
-title: "Lecture 05: Origins of Government"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+title: "Lecture 5: Origins of Government"
+subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "September 9 / 10, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,239 @@ format:
     toc: true
 ---
 
-# Origins of Government
+## Today
 
-## Placeholder
+- Why government arises
+- Collective action problems
+- Olson: stationary bandit (empirical)
+- Locke: social contract (normative)
+- Top Hat
 
-Content to be developed (Winston-style shared core).
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 55px;"}
+By the end of today you will explain two answers to “where does government come from?” — one empirical, one about rights and legitimacy — and why both matter for limiting power.
+:::
+
+## Bridge
+
+- Government = organized coercive force accepted as legitimate
+- Ethics + founding values → limits
+- Today: *why* that force appears at all
+
+# Collective Action
+
+## The problem
+
+::: {.custom-style style="font-size: 55px;"}
+Rational individual choices ≠ optimal group outcomes
+:::
+
+## Ostrom
+
+::: {.custom-style style="font-size: 50px;"}
+Failure of collective action is the “core justification for the state.”
+:::
+
+— Elinor Ostrom
+
+## Prisoner’s Dilemma
+
+![](../../assets/prisoners.png){width="90%"}
+
+## Prisoner’s Dilemma
+
+[Prisoner’s Dilemma Explained](https://youtu.be/TJCGTNIwmv8)
+
+## Prisoner’s Dilemma
+
+- Best personal move can make both worse off
+- Talk without enforcement is cheap
+- Enforcement → core use of state coercion
+
+## Free rider
+
+![](../../assets/hangover.jpg){width="70%"}
+
+## Free rider
+
+::: {.custom-style style="font-size: 55px;"}
+Everyone benefits if someone else does the work
+:::
+
+## Public goods
+
+- Roads, parks, clean air, clean water
+- Security — the first public good
+
+## Security
+
+::: {.custom-style style="font-size: 55px;"}
+No central authority: who provides? Who pays?
+:::
+
+# Olson — Empirical Origin
+
+## Two coercive actors
+
+![](../../assets/bandits.png){width="90%"}
+
+## Roving bandit
+
+::: {.custom-style style="font-size: 55px;"}
+Plunder, move on — no incentive to protect production
+:::
+
+## Stationary bandit
+
+::: {.custom-style style="font-size: 50px;"}
+Stay, monopolize force and taxation — incentive to foster order
+:::
+
+## Genesis of the state
+
+::: {.custom-style style="font-size: 50px;"}
+Ruler’s long-term interest can align with a stable, productive society
+:::
+
+## Olson in one line
+
+::: {.custom-style style="font-size: 55px;"}
+Empirical story: order can grow out of self-interested violence
+:::
+
+# Locke — Rights and Legitimacy
+
+## State of nature
+
+::: {.custom-style style="font-size: 50px;"}
+Not war of all against all — law of nature, free and equal
+:::
+
+## Inconveniences
+
+- No known settled law
+- No neutral judge
+- No reliable enforcement
+
+## The contract
+
+![](../../assets/social_contract.png){width="85%"}
+
+## Purpose of government
+
+::: {.custom-style style="font-size: 55px;"}
+Preservation of property — life, liberty, possessions
+:::
+
+## Rights first
+
+::: {.custom-style style="font-size: 55px;"}
+Government protects pre-existing rights — it does not create them
+:::
+
+## A rare real contract
+
+![](../../assets/constitution_signing.jpg){width="90%"}
+
+## US founding documents
+
+::: {.custom-style style="font-size: 50px;"}
+A rare instance of the real thing: consent, rights, right to alter or abolish
+:::
+
+# Two Models
+
+## Olson vs Locke
+
+![](../../assets/bandit_contract_gears.png){width="90%"}
+
+## Two jobs
+
+| Olson | Locke |
+|-------|--------|
+| Empirical origin | Normative legitimacy |
+| Incentives & violence | Rights & consent |
+| Where states come from | Why we may limit them |
+
+## Conceptual maps
+
+![](../../assets/map.png){width="85%"}
+
+## Not history lessons
+
+::: {.custom-style style="font-size: 55px;"}
+Simplified maps — major structures, not every street
+:::
+
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Origins of government
+
+Collective action problems arise when rational individual choices do not produce optimal group outcomes. Ostrom called failure of collective action a core justification for the state. The prisoner’s dilemma shows that the best personal move can leave both parties worse off without enforcement. The free-rider problem is that everyone benefits if someone else does the work; security is the first public good. Mancur Olson’s stationary bandit is an empirical account: a roving bandit plunders and moves on; a stationary bandit stays, monopolizes force and taxation, and has an incentive to foster order. John Locke’s social contract is normative: the state of nature is governed by the law of nature; inconveniences (no settled law, no neutral judge, no reliable enforcement) motivate the contract; the primary purpose of government is preservation of property (life, liberty, possessions); government protects pre-existing rights and does not create them. The US founding documents are a rare real-world instance of that contract idea. Olson explains where states can come from; Locke explains legitimacy and limits.
+
+## Top Hat questions (auto-scored)
+
+**T/F:** Olson’s stationary-bandit model is primarily a normative theory of rights.  
+*Answer: False*
+
+**Multiple choice:** In this lecture, Locke’s social contract is treated mainly as:  
+A) A full historical narrative of 1787  
+B) A normative basis for rights and legitimacy  
+C) Proof that democracy never fails  
+D) An argument for unlimited government  
+*Answer: B*
+
+**Multiple choice:** A stationary bandit differs from a roving bandit because the stationary bandit:  
+A) Never uses force  
+B) Has a longer-term interest in protecting productive capacity  
+C) Abolishes taxation  
+D) Rejects monopoly on violence  
+*Answer: B*
+
+**T/F:** In Locke’s account, government creates natural rights rather than protecting them.  
+*Answer: False*
+
+**Multiple choice:** Security is described as:  
+A) A pure private good only  
+B) The first public good in the collective-action story  
+C) Irrelevant to origins of government  
+D) Only a modern concern  
+*Answer: B*
+
+**Multiple answer:** Which are inconveniences of Locke’s state of nature in this lecture?  
+A) No known settled law  
+B) No neutral judge  
+C) No reliable enforcement  
+D) Guaranteed majority rule  
+*Answers: A, B, C*
+
+**Likert (survey / completion):** How persuasive do you find Olson’s empirical “stationary bandit” story as an account of where government comes from?  
+1 = Not at all … 5 = Very persuasive
+
+---
+
+# Next
+
+## Next class (September 14 / 15): Constitutional Safeguards
+
+Come ready to connect origins → *how* the Constitution tries to limit the force it authorizes.
+
+## Reminders
+
+- **Module 0 due September 9, 2026 (ORD)** — book + Top Hat registration; avoid drop
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+- Author: Tom Hanna
+- Website: [tomhanna.me](https://tom-hanna.org/)
+- Graphics: Gemini-generated diagrams unless noted; Constitution signing — Howard Chandler Christy, public domain
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Creative Commons License](../../assets/creative_commons_license.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
