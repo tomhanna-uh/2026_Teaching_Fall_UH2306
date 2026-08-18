@@ -1,15 +1,16 @@
 ---
-title: "Lecture 02: What is Government?"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+title: "Lecture 2: What is government? What is politics?"
+subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "August 26/27, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,325 @@ format:
     toc: true
 ---
 
-# What is Government?
+## Today
 
-## Placeholder
+- What is government? What is politics?
+- Top Hat: experiences with government
+- Canvas, Inquizitives, and Top Hat overview
+- Questions
 
-Content to be developed (Winston-style shared core).
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 65px;"}
+By the end of today you will be able to explain  
+why government is the only organization  
+that can legally force you to do something  
+against your will.
+:::
+
+## The Core Question
+
+::: {.custom-style style="font-size: 70px;"}
+What makes government different  
+from every other group of people  
+who try to get things done?
+:::
+
+## Before You Walked Onto Campus
+
+::: {.custom-style style="font-size: 70px;"}
+Before stepping on the campus today,  
+what was the last time that politics  
+made a difference in your life?
+:::
+
+# A Word on Words
+
+## Government
+
+- The specific group of people in charge right now
+- The enduring institution or organization we call government
+
+## State
+
+- International: State = independent country
+- United States: State = one of the 50 states (including Texas)
+- Political Science: State = government
+
+## Politics
+
+The process of making collective decisions  
+in the context of the state or government
+
+# What Do Most People Think Politics Is?
+
+## What Do Most People Think Politics Is?
+
+- Expensive or involves large amounts of money
+- Distant
+- Involves politicians or campaigns
+- Involves voting or decision making
+- Involves rights
+- National borders
+- Controversial
+
+## What Is Politics: State and Local
+
+![Houston Public Works](../../assets/houston-public.png){width="49%"}
+
+## What Is Politics: Federal, State and Local
+
+![Metro rail](../../assets/metrorail.jpg){width="49%"}
+
+## What Is Politics: Federal, State and Local
+
+![UH / PGH Hall](../../assets/pgh-hall.jpg){width="49%"}
+
+## What Politics Actually Is
+
+- Not distant
+- Immediate, right here
+- Touches everything
+- Direct impacts are constant
+- Involves all of us
+- It can be expensive, but it is not always about money
+
+# Politics Is Powerful
+
+## Politics Is Powerful
+
+- Immense power to achieve good ends
+
+## Politics Is Powerful
+
+- Immense power to achieve good ends
+- Immense power to do incredible harm
+
+## Politics Is Powerful
+
+::: {.custom-style style="font-size: 3em;"}
+Why does politics have  
+such power to cause harm?
+:::
+
+## Politics Is Powerful
+
+![George Washington](../../assets/washington_quote.jpg){width="55%"}
+
+## Politics Is Powerful
+
+![Frederick Douglass](../../assets/power_fredrick_douglass.jpg){width="55%"}
+
+## Power
+
+::: {.custom-style style="font-size: 90px;"}
+Power
+:::
+
+# Collective Action
+
+## What Does Government Do?
+
+::: {.custom-style style="font-size: 70px;"}
+These are all examples of *collective action* —  
+organized action by a group of people  
+to achieve a common goal.
+:::
+
+## What Makes Government Different?
+
+::: {.custom-style style="font-size: 65px;"}
+What makes government or The State  
+different from other organizations?  
+Is collective action unique to government?
+:::
+
+# Other Organizations
+
+## Other Organizations — Group 1
+
+- Family
+
+## Other Organizations
+
+- Family
+- Church
+
+## Other Organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+
+## Other Organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+
+## Other Organizations
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses — The Market
+
+## Other Organizations — Group 2
+
+- Organized crime
+
+## Other Organizations
+
+- Organized crime
+- Vigilantes
+
+## Other Organizations
+
+- Organized crime
+- Vigilantes
+- Terrorists
+
+## Key Questions
+
+- For Group 1 organizations:  
+  How can they enforce their rules?
+
+- For Group 2 organizations:  
+  Who are they responsible to,  
+  and how do we view their use of force?
+
+# The State
+
+## What Is "the State"?
+
+**The organized, coercive use of violent force  
+commonly accepted as legitimate**
+
+- Organized
+- Coercive use
+- Violent force (armed force)
+- Legitimacy
+
+## What Is Politics?
+
+::: {.custom-style style="font-size: 65px;"}
+Politics is the process of making  
+collective decisions in the context of...
+:::
+
+## What Is Politics?
+
+::: {.custom-style style="font-size: 65px;"}
+Politics is the process of making  
+collective decisions in the context of  
+the State or government.
+:::
+
+## The Difference
+
+These organizations all engage in collective action,  
+but lack one thing the state has:
+
+- Family
+- Church
+- Community organizations (voluntary)
+- Charities
+- Businesses — The Market
+
+**Coercive use of violent force**
+
+## Two Spheres
+
+**Voluntary Sphere**  
+Family, church, market, charities...
+
+**Coercive Sphere**  
+The State
+
+## Politics Is About
+
+Making collective decisions in  
+**the Coercive Sphere**
+
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Government vs other organizations
+
+Government is distinct from family, churches, businesses, charities, and community groups because it can use organized, coercive force that is widely treated as legitimate. Other groups rely mainly on voluntary compliance, social pressure, exit, or market incentives. Groups that use force without legitimacy (organized crime, vigilantes, terrorists) are not accepted as the state. Politics is the process of making collective decisions inside that coercive sphere — not only campaigns and elections, and not only distant national headlines. Local roads, transit, campus rules, and public works are politics too.
+
+## Top Hat questions (auto-scored)
+
+**T/F:** Government is the only organization that can legally force you to do something against your will.  
+*Answer: True*
+
+**T/F:** Politics only happens in Washington, D.C., or Austin during election years.  
+*Answer: False*
+
+**Multiple choice:** In political science usage in this course, "the State" primarily means:  
+A) Texas only  
+B) Any independent country on a map  
+C) The organized, coercive government treated as legitimate  
+D) The Democratic or Republican party in power  
+*Answer: C*
+
+**Multiple answer:** Which of the following are usually in the *voluntary* sphere?  
+A) A church congregation  
+B) The Houston police enforcing a city ordinance  
+C) A private business selling groceries  
+D) A charity food bank  
+*Answers: A, C, D*
+
+**Multiple choice:** What do family, church, market firms, and charities lack that the state has?  
+A) Collective action  
+B) Rules  
+C) Coercive use of violent force treated as legitimate  
+D) Leaders  
+*Answer: C*
+
+**Likert (survey):** Before today, how often did you think of local services (roads, Metro, campus rules) as "politics"?  
+1 = Almost never … 5 = Almost always
+
+---
+
+# Canvas, Inquizitives, and Top Hat
+
+## Systems overview (live walkthrough)
+
+- Canvas Modules (especially Module 0)
+- Textbook / Inquizitives access
+- Top Hat: always enter through the **Canvas** course link
+
+This is a placeholder slide — open the live systems and walk through.
+
+# Next Lecture & Reminders
+
+## Next class (August 31 / September 1): Basic Ethics
+
+Come ready to answer *your own* versions of these questions.  
+We will start with them. Legal answers are not what we are after.
+
+- What are ethically appropriate uses of physical force (violence)?
+- How do you (or how should you) make ethical decisions?
+- If you must decide something that affects others' lives or property,  
+  how do you tell right from wrong when the law is silent?
+
+## Upcoming due dates
+
+- **Module 0 due September 9, 2026 (ORD)** — book + Top Hat registration included; avoid drop
+- Keep Inquizitives moving; do not wait until Module deadlines
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+- Author: Tom Hanna
+- Website: [tomhanna.me](https://tom-hanna.org/)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Creative Commons License](../../assets/creative_commons_license.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
