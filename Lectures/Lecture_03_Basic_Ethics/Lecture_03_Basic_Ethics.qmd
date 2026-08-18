@@ -34,9 +34,9 @@ By the end of today you will be able to state your own standard for when force i
 
 ## Bridge from last time
 
-Government is the organized coercive use of physical force commonly accepted as legitimate.
+- Government is the organized coercive use of physical force commonly accepted as legitimate.
 
-So ethics is not optional. It is the point.
+- So ethics is not optional. It is the point.
 
 ## Purpose
 
@@ -184,10 +184,16 @@ No right or wrong — no standards
 Right and wrong = only the norms of a culture
 :::
 
-## Ethical relativism — issue
+## Ethical relativism — minor issue
 
 ::: {.custom-style style="font-size: 65px;"}
 How do you condemn past wrongs in your own society?
+:::
+
+## Ethical relativism — major issue
+
+::: {.custom-style style="font-size: 65px;"}
+How do you work to improve your own society?
 :::
 
 # Government as Trustee
@@ -247,7 +253,7 @@ Inform Clients
 ## The force question
 
 ::: {.custom-style style="font-size: 55px;"}
-If private fiduciaries face this standard with money, what standard fits people who command force?
+If private fiduciaries face this standard with money and voluntary clients, what standard fits people who command force?
 :::
 
 # Delegated Violence
@@ -268,7 +274,7 @@ The hired force — or the one who hires it?
 
 ## Text bank: Ethics and force
 
-Government is the organized coercive use of physical force commonly accepted as legitimate, so ethics is central to the course. The trolley problem raises utility (greatest good for the greatest number), omission versus commission, and ends versus means. Reciprocity appears across traditions as forms of the Golden Rule (Buddha, Hillel, Jesus, Muhammad, Confucius, Yoruba proverb, Mahabharata). Formal approaches include duty-based ethics (deontology), consequentialism including utilitarianism, ethical nihilism, and ethical relativism. Government officials are often framed as trustees of the people; private fiduciaries owe loyalty, care, good faith, confidentiality, disclosure, record keeping, and informing clients. If those standards apply to economic power, a serious question is what standard fits people who command coercive force.
+Government is the organized coercive use of physical force commonly accepted as legitimate, so ethics is central to the course. The trolley problem raises utility (greatest good for the greatest number), omission versus commission, and ends versus means. Reciprocity appears across traditions as forms of the Golden Rule (Buddha, Hillel, Jesus, Muhammad, Confucius, Yoruba proverb, Mahabharata). Formal approaches include duty-based ethics (deontology), consequentialism including utilitarianism, ethical nihilism, and ethical relativism. Government officials are often framed as trustees of the people; private fiduciaries owe loyalty, care, good faith, confidentiality, disclosure, record keeping, and informing clients. If those standards apply to economic power and voluntary clients, a serious question is what standard fits people who command coercive force.
 
 ## Top Hat questions (auto-scored)
 
