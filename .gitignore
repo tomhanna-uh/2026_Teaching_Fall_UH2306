@@ -47,3 +47,27 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# ---- Quarto / lecture render outputs (do not push) ----
+# Keep .qmd sources and assets/; ignore rendered products
+*.html
+*.pdf
+*.docx
+*.pptx
+*.ppt
+*.odt
+
+# Quarto intermediate / support output
+*_files/
+.quarto/
+**/*_cache/
+**/_freeze/
+
+# Quarto internal error dumps
+*_quarto_internal_scss_error.scss
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
