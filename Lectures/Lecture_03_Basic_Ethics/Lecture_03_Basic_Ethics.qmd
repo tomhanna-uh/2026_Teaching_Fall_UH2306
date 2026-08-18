@@ -84,9 +84,16 @@ The Golden Rule
 
 ## Buddha
 
+:::: {.columns}
+::: {.column width="35%"}
+![Gandhara Buddha](../../assets/Gandhara_Buddha_(tnm).jpeg){width="100%"}
+:::
+::: {.column width="65%"}
 > Hurt not others in ways that you yourself would find hurtful.
 
 — Attributed to the Buddha
+:::
+::::
 
 ## Hillel
 
