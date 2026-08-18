@@ -1,15 +1,16 @@
 ---
-title: "Lecture 03: Basic Ethics"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+title: "Lecture 3: Basic Ethics"
+subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "August 31 / September 1, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,311 @@ format:
     toc: true
 ---
 
-# Basic Ethics
+## Today
 
-## Placeholder
+- Basic ethics
+- Top Hat: standards, trolley, reciprocity
 
-Content to be developed (Winston-style shared core).
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 65px;"}
+By the end of today you will be able to state your own standard for when force is ethically acceptable — and apply it to government.
+:::
+
+## Bridge from last time
+
+Government is the organized coercive use of physical force commonly accepted as legitimate.
+
+So ethics is not optional. It is the point.
+
+## Purpose
+
+- Explore together — not a lecture of final answers
+- A few terms you should know
+- Your disagreement is welcome
+
+# The Trolley Problem
+
+## The Trolley Problem
+
+![Trolley Problem](../../assets/trolley.jpg){width="70%"}
+
+## Utility
+
+::: {.custom-style style="font-size: 90px;"}
+Utility
+:::
+
+## Omission vs Commission
+
+::: {.custom-style style="font-size: 80px;"}
+Omission vs Commission
+:::
+
+## Ends and Means
+
+::: {.custom-style style="font-size: 90px;"}
+Ends and Means
+:::
+
+## Rhetorical prompt
+
+Would you pull the lever?
+
+Does the ratio matter — 5 to 1, 500 to 1, billions to 1?
+
+# Reciprocity
+
+## Reciprocity
+
+::: {.custom-style style="font-size: 90px;"}
+The Golden Rule
+:::
+
+## Buddha
+
+> Hurt not others in ways that you yourself would find hurtful.
+
+— Attributed to the Buddha
+
+## Hillel
+
+> What is hateful to you, do not do to your neighbor. That is the whole of the Torah. All else is commentary. Go and contemplate it.
+
+— Hillel the Elder
+
+## Jesus of Nazareth
+
+> Do unto others as you would have them do unto you
+
+— Jesus of Nazareth
+
+## Muhammad
+
+> None of you has faith until he loves for his brother what he loves for himself.
+
+— Hadith attributed to the Prophet Muhammad
+
+## Confucius
+
+:::: {.columns}
+::: {.column width="35%"}
+![Confucius](../../assets/confucius.jpg){width="100%"}
+:::
+::: {.column width="65%"}
+> 己所不欲，勿施於人
+
+> Do not do to others what you do not want others to do to you.
+
+— Confucius 孔子
+:::
+::::
+
+## Yoruba
+
+> One who is going to take a pointed stick to pinch a baby bird should first try it on himself to feel how it hurts.
+
+— Yoruba proverb
+
+## Mahabharata
+
+> One should never do that to another which one regards as injurious to one's own self. This, in brief, is the rule of Righteousness [Dharma].
+
+— Mahabharata Anusasana Parva (trans. K.M. Ganguly)
+
+## Two basic guidelines
+
+::: {.custom-style style="font-size: 70px;"}
+Thoughtfulness and reciprocity
+:::
+
+# Theories of Ethics
+
+## Duty-based (deontology)
+
+::: {.custom-style style="font-size: 70px;"}
+Right is based on the action — rules and duties
+:::
+
+## Consequentialist
+
+::: {.custom-style style="font-size: 70px;"}
+Right is based on the consequence
+:::
+
+## Utilitarianism
+
+::: {.custom-style style="font-size: 70px;"}
+Greatest good for the greatest number
+:::
+
+## Utilitarianism — issue
+
+::: {.custom-style style="font-size: 65px;"}
+Are some actions wrong even if the outcome is good?
+:::
+
+## Ethical nihilism
+
+::: {.custom-style style="font-size: 70px;"}
+No right or wrong — no standards
+:::
+
+## Ethical relativism
+
+::: {.custom-style style="font-size: 70px;"}
+Right and wrong = only the norms of a culture
+:::
+
+## Ethical relativism — issue
+
+::: {.custom-style style="font-size: 65px;"}
+How do you condemn past wrongs in your own society?
+:::
+
+# Government as Trustee
+
+## Trustees of the people
+
+::: {.custom-style style="font-size: 70px;"}
+Officials as trustees of the people
+:::
+
+## Private fiduciaries
+
+Lawyers, physicians, directors, advisors, agents — set aside self-interest; act for the client.
+
+## Duty of Loyalty
+
+::: {.custom-style style="font-size: 90px;"}
+Loyalty
+:::
+
+## Duty of Care
+
+::: {.custom-style style="font-size: 90px;"}
+Care
+:::
+
+## Duty of Good Faith
+
+::: {.custom-style style="font-size: 80px;"}
+Good Faith
+:::
+
+## Duty of Confidentiality
+
+::: {.custom-style style="font-size: 80px;"}
+Confidentiality
+:::
+
+## Full Disclosure
+
+::: {.custom-style style="font-size: 90px;"}
+Disclosure
+:::
+
+## Record Keeping
+
+::: {.custom-style style="font-size: 90px;"}
+Records
+:::
+
+## Informing Clients
+
+::: {.custom-style style="font-size: 80px;"}
+Inform Clients
+:::
+
+## The force question
+
+::: {.custom-style style="font-size: 55px;"}
+If private fiduciaries face this standard with money, what standard fits people who command force?
+:::
+
+# Delegated Violence
+
+## Who is responsible?
+
+![John Wick](../../assets/john_wick.jpg){width="40%"}
+
+## Who is responsible?
+
+::: {.custom-style style="font-size: 65px;"}
+The hired force — or the one who hires it?
+:::
+
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Ethics and force
+
+Government is the organized coercive use of physical force commonly accepted as legitimate, so ethics is central to the course. The trolley problem raises utility (greatest good for the greatest number), omission versus commission, and ends versus means. Reciprocity appears across traditions as forms of the Golden Rule (Buddha, Hillel, Jesus, Muhammad, Confucius, Yoruba proverb, Mahabharata). Formal approaches include duty-based ethics (deontology), consequentialism including utilitarianism, ethical nihilism, and ethical relativism. Government officials are often framed as trustees of the people; private fiduciaries owe loyalty, care, good faith, confidentiality, disclosure, record keeping, and informing clients. If those standards apply to economic power, a serious question is what standard fits people who command coercive force.
+
+## Top Hat questions (auto-scored)
+
+**T/F:** In this course, government is treated as organized coercive physical force commonly accepted as legitimate.  
+*Answer: True*
+
+**Multiple choice:** Utilitarianism judges right and wrong primarily by:  
+A) Sacred texts only  
+B) Greatest good for the greatest number  
+C) Whatever a dictator orders  
+D) Tradition alone  
+*Answer: B*
+
+**Multiple choice:** Duty-based (deontological) ethics focuses on:  
+A) Outcomes only  
+B) Whether the action follows rules or duties  
+C) Popularity of the actor  
+D) National borders  
+*Answer: B*
+
+**T/F:** Ethical relativism says morality depends solely on the norms of a culture.  
+*Answer: True*
+
+**Multiple answer:** Which appear as forms of reciprocity / Golden Rule in this lecture?  
+A) Hurt not others in ways you would find hurtful (Buddha)  
+B) Do unto others as you would have them do unto you (Jesus)  
+C) Greatest good for the greatest number (Bentham only)  
+D) Do not do to others what you do not want done to you (Confucius)  
+*Answers: A, B, D*
+
+**Multiple choice:** Private fiduciaries are expected to:  
+A) Maximize their own profit first  
+B) Set aside self-interest and act for the client  
+C) Ignore conflicts of interest  
+D) Avoid all record keeping  
+*Answer: B*
+
+**Likert (survey / rhetorical):** How confident are you in your own standard for when physical force is ethically acceptable?  
+1 = Not at all … 5 = Very confident
+
+**Likert (survey):** Would you pull the trolley lever in the classic 5-vs-1 case?  
+1 = Definitely no … 5 = Definitely yes
+
+---
+
+# Next
+
+## Next class (September 2 / 3): Values of the Founding
+
+Come ready to connect ethics → founding values → limits on power.
+
+## Reminders
+
+- **Module 0 due September 9, 2026 (ORD)** — book + Top Hat registration; avoid drop
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+- Author: Tom Hanna
+- Website: [tomhanna.me](https://tom-hanna.org/)
+- John Wick image: Lionsgate Films
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![Creative Commons License](../../assets/creative_commons_license.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
