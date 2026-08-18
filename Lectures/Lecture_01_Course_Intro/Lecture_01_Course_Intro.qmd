@@ -151,7 +151,7 @@ If two-thirds of the work is outside class, **who has the major responsibility f
 - Bookstore / CTAP / billing problems
 - Tutoring or writing-center services
 - Forcing you to work or doing your work for you
-- Negotiating grades, excuses, or special exceptions to the syllabus
+- Negotiating grades, excuses, extensions, or special exceptions
 - Anything your other courses require that conflicts with this one
 
 ## Get help from the right place (1)
@@ -185,7 +185,8 @@ I cannot fix platform, billing, or device problems for 1,000+ students. Use the 
 - With ~1,000 students across four sections, email need is minimal
 - Class cancellations: Canvas Announcements and official email
 - Other announcements: Canvas (during class time when possible)
-- **Do not email** excuses, grade questions, makeup or extension requests — discuss in person at office hours if needed
+- **Do not email** excuses, grade questions, makeup or extension requests
+- You may ask about policies in office hours; the answer on exceptions is still **no**
 - Emails not from `@cougarnet.uh.edu` or `@uh.edu` are ignored (privacy)
 
 ## Grades (overview)
@@ -203,12 +204,12 @@ Full detail and letter cutoffs are in the syllabus. Point totals may be refined 
 
 ## Late work and makeups
 
-- Late Inquizitives: accepted with automatic daily penalty
-- Missed midterm: final exam percentage applies automatically — no petition needed
+- Late Inquizitives: accepted **automatically** with a daily penalty — no request needed
+- Missed midterm: final exam percentage applies **automatically** — no petition needed
 - Missed Top Hat days: no makeup
-- Policy is already generous — **no special exceptions**
+- **No extensions. No excuses. No exceptions.**
 
-Asking for special treatment is asking for an ethical problem. It can affect your professionalism score.
+The system is built so late work and makeups run without special deals. Asking for an exception — by email or in office hours — still gets **no**. Asking can affect your professionalism score.
 
 ## Attendance
 
