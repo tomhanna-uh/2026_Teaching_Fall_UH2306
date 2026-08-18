@@ -32,9 +32,8 @@ format:
 
 ::: {.custom-style style="font-size: 65px;"}
 By the end of today you will be able to explain  
-why government is the only organization  
-that can legally force you to do something  
-against your will.
+why government is different from every other organization  
+in the way it gets things done.
 :::
 
 ## The Core Question
