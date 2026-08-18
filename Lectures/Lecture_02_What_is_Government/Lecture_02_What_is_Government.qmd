@@ -98,9 +98,6 @@ The process of making collective decisions in the context of the state or govern
 
 # Politics Is Powerful
 
-## Politics Is Powerful
-
-- Immense power to achieve good ends
 
 ## Politics Is Powerful
 
@@ -132,40 +129,24 @@ Power
 ## What Does Government Do?
 
 ::: {.custom-style style="font-size: 70px;"}
+
 These are all examples of *collective action* — organized action by a group of people to achieve a common goal.
+
 :::
 
 ## What Makes Government Different?
 
 ::: {.custom-style style="font-size: 65px;"}
+
 What makes government or The State different from other organizations? Is collective action unique to government?
+
+
 :::
 
 # Other Organizations
 
-## Other Organizations — Group 1
 
-- Family
-
-## Other Organizations
-
-- Family
-- Church
-
-## Other Organizations
-
-- Family
-- Church
-- Community organizations (voluntary)
-
-## Other Organizations
-
-- Family
-- Church
-- Community organizations (voluntary)
-- Charities
-
-## Other Organizations
+## Other Organizations - Group 1
 
 - Family
 - Church
@@ -176,17 +157,9 @@ What makes government or The State different from other organizations? Is collec
 ## Other Organizations — Group 2
 
 - Organized crime
-
-## Other Organizations
-
-- Organized crime
-- Vigilantes
-
-## Other Organizations
-
-- Organized crime
 - Vigilantes
 - Terrorists
+
 
 ## Key Questions
 
@@ -208,13 +181,17 @@ What makes government or The State different from other organizations? Is collec
 ## What Is Politics?
 
 ::: {.custom-style style="font-size: 65px;"}
+
 Politics is the process of making collective decisions in the context of...
+
 :::
 
 ## What Is Politics?
 
 ::: {.custom-style style="font-size: 65px;"}
+
 Politics is the process of making collective decisions in the context of the State or government.
+
 :::
 
 ## The Difference
