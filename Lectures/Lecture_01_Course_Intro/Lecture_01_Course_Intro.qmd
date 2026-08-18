@@ -154,17 +154,26 @@ If two-thirds of the work is outside class, **who has the major responsibility f
 - Negotiating grades, excuses, or special exceptions to the syllabus
 - Anything your other courses require that conflicts with this one
 
-## Get help from the right place
+## Get help from the right place (1)
+
+**Platforms and accounts**
 
 | Issue | Where to go |
 |-------|-------------|
 | Canvas / login | UH IT / Canvas support |
 | Top Hat account or device | Top Hat support (support@tophat.com) — start from the Canvas link |
 | Textbook / CTAP / billing | Bookstore or publisher support |
+
+## Get help from the right place (2)
+
+**Learning and course content**
+
+| Issue | Where to go |
+|-------|-------------|
 | Writing, study skills, tutoring | UH Learning Support / Writing Center |
 | Course content questions | Class time and office hours (PGH 391) |
 
-I cannot fix platform, billing, or device problems for 700+ students. Use the specialized support channels.
+I cannot fix platform, billing, or device problems for 1,000+ students. Use the specialized support channels.
 
 ---
 
@@ -173,7 +182,7 @@ I cannot fix platform, billing, or device problems for 700+ students. Use the sp
 ## Communication
 
 - Preferred mode: **face-to-face** (class and office hours)
-- With ~750 students across sections, email need is minimal
+- With ~1,000 students across four sections, email need is minimal
 - Class cancellations: Canvas Announcements and official email
 - Other announcements: Canvas (during class time when possible)
 - **Do not email** excuses, grade questions, makeup or extension requests — discuss in person at office hours if needed
