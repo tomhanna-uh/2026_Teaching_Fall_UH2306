@@ -1,0 +1,184 @@
+/* Override default reveal.js background */
+.reveal {
+    background: linear-gradient(135deg, #C8102D 0%, #C80F2C 50%, #C70826 100%) !important;
+}
+
+.reveal .slides {
+    background: transparent !important;
+}
+
+/* Primary Text Color */
+.reveal p, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: #FFFFFF;
+}
+
+/* Links */
+.reveal a, .reveal .highlight {
+    color: #FFD700;
+}
+
+.reveal a:hover, .reveal .highlight:hover {
+    color: #FFC107;
+}
+
+/* Button Styles */
+.reveal button, .reveal .btn {
+    background-color: #FFD700;
+    color: #C70826;
+    border: none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+.reveal button:hover, .reveal .btn:hover {
+    background-color: #FFC107;
+    color: #C70826;
+}
+
+/* Borders */
+.reveal .border-primary {
+    border-color: #FFD700;
+}
+
+.reveal .border-secondary {
+    border-color: #CFCFD2;
+}
+
+/* Section Headings */
+.reveal .sectionhead {
+    font-size: 1em;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #C70826;
+    margin: 1px;
+    padding: 2px;
+    width: 120px;
+    border-left: 10px solid #FFD700;
+}
+
+/* Blackbox */
+.reveal .blackbox {
+    color: #FFFFFF;
+    background-color: transparent;
+    margin: 1px;
+    padding: 5px 2px;
+    height: 205px;
+    border: 2px solid #FFD700;
+}
+
+#blink_text{
+    animation-name: blink;
+    width: 750px;
+    text-align: center;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: Infinite;
+}
+
+@keyframes blink {
+    0% { color: #FFD700; }
+    50% { color: #FFFFFF; }
+    100% { color: #FFD700; }
+}
+
+/*-- scss:defaults --*/
+
+body {
+    background: linear-gradient(135deg, #C8102D 0%, #C80F2C 50%, #C70826 100%);
+    color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5, h6, p, li {
+    color: #FFFFFF;
+}
+
+a, .highlight {
+    color: #FFD700;
+}
+
+a:hover, .highlight:hover {
+    color: #FFC107;
+}
+
+.secondary-bg {
+    background-color: #CFCFD2;
+    color: #C70826;
+}
+
+button, .btn {
+    background-color: #FFD700;
+    color: #C70826;
+    border: none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+button:hover, .btn:hover {
+    background-color: #FFC107;
+    color: #C70826;
+}
+
+.border-primary {
+    border-color: #FFD700;
+}
+
+.border-secondary {
+    border-color: #CFCFD2;
+}
+
+/*-- scss:rules --*/
+
+.reveal .slide-number {
+  color: #FFD700;
+}
+
+.reveal .footer {
+  font-size: 0.35em !important;
+  text-align: left !important;
+}
+
+.reveal .slides section .fragment.semi-fade-out {
+	opacity: 1;
+	visibility: inherit;
+
+	&.visible {
+		opacity: 0.25;
+		visibility: inherit;
+	}
+}
+
+.sectionhead {
+  font-size: 1em;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: $presentation-heading-font;
+  background-color: #C70826;
+  margin: 1px;
+  padding: 2px 2px 2px 2px;
+  width: 120px;
+  border-left: 10px solid #FFD700;
+}
+
+.blackbox {
+  color: #FFFFFF;
+  background-color: transparent;
+  margin: 1px;
+  padding: 5px 2px 5px 2px;
+  height: 205px;
+  border: 2px solid #FFD700;
+}
+
+#blink_text{
+  animation-name:blink;
+  width:750px;
+  text-align: center;
+  animation-duration:2s;
+  animation-timing-function:ease-in;
+  animation-iteration-count:Infinite;
+}
+
+@keyframes blink{
+  0%{color:#FFD700;}
+  50%{color:#FFFFFF;}
+  100%{color:#FFD700;}
+}

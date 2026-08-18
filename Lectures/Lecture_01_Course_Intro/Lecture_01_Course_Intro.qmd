@@ -1,15 +1,16 @@
 ---
-title: "Lecture 01: Course Overview"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+title: |
+    | GOVT 2306: US and Texas Constitution and Politics
+    | Course Overview
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "August 24/25, 2026"
 format:
   revealjs:
     self-contained: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,246 @@ format:
     toc: true
 ---
 
-# Course Overview
+# Welcome
 
-## Placeholder
+## GOVT 2306
 
-Content to be developed (Winston-style shared core + UH logistics/Top Hat).
+US and Texas Constitution and Politics
+
+- Instructor: Tom Hanna
+- Sections meet August 24/25 (first day) through November 30 / December 1
+- Large lecture sections — in-class points are through **Top Hat**
+
+## Contact and office hours
+
+- Email: tlhanna@cougarnet.uh.edu
+- Office hours: **Tuesday and Thursday, 2:30–3:20 PM**
+- Location: **PGH 391** (my office — not the classroom)
+- **In person only** — walk-in, first come, first served
+- No virtual office hours
+- Cancellations posted in Canvas Announcements
+
+## About me (brief)
+
+- Ph.D. candidate, Political Science, University of Houston
+- Teaching at UH since 2022; also HCC and previously OLLU
+- Research: international behavior of dictators; threats to liberal democracy
+- Former business manager and owner
+
+## What this course is about
+
+How can we live together peacefully as members of a society of dignified equals?
+
+We examine the constitutional structure and politics of the United States **and** Texas — why the rules exist, how they limit power, and what that means for citizens.
+
+---
+
+# First week
+
+## Today (August 24/25)
+
+- Course overview and policies
+- Study suggestions
+- What you must do **immediately** (Module 0)
+- Top Hat representative (if scheduled)
+
+## Next class (August 26/27)
+
+- What is government?
+- Canvas, Inquizitives, and Top Hat overview
+
+## Do this immediately
+
+**Module 0 is due September 9, 2026 (Official Reporting Day)**
+
+- Absolute hard deadline — avoid being dropped
+- Includes: syllabus/intro quizzes, textbook access (CTAP / We the People + Governing Texas), **Top Hat registration**, Inquizitives setup
+- Instructions are in Module 0 on Canvas
+
+Register Top Hat **through the Canvas course link** (not by searching the web first).
+
+---
+
+# How the course works
+
+## Lecture vs textbook
+
+- Lecture is not a substitute for the textbook
+- Textbook is not a substitute for the lecture
+- Textbook: institutions and concepts
+- Lecture: why these things matter
+- Both are testable
+
+## In-class points = Top Hat
+
+- Daily Top Hat activity (lecture quizzes and reading quizzes)
+- Part participation, part correctness
+- Only in class — no makeups for missed Top Hat days
+- Enough points exist that missing an occasional day need not sink you — but patterns matter
+
+## Major expectations
+
+I do not expect expertise by the end.
+
+I do expect you to:
+
+- Respect other people
+- Do the work
+- Do your best
+- Take responsibility for what you did or did not do
+- Consider the material for your own life and for people you care about
+- Come to class prepared
+
+## Come prepared
+
+- Review assigned readings / start Inquizitives early
+- Top Hat will draw on both readings and prior lectures
+- Preparation is how you earn full Top Hat credit when questions are scored for correctness
+
+---
+
+# Your responsibility — and mine
+
+## Time commitment
+
+UH is SACSCOC-accredited. For a 3-credit face-to-face course:
+
+- ~3 hours in class + ~6 hours outside class per week (minimum standard)
+
+If two-thirds of the work is outside class, **who has the major responsibility for your success or failure?**
+
+## Your responsibilities
+
+- Time management
+- Your own learning
+- Doing assignments (or accepting the zero)
+- Doing them on time (or accepting the consequences)
+- Showing up and engaging
+- Getting **appropriate** help from the right place (see next slides)
+- Taking responsibility for results
+
+## I am responsible for
+
+- A structured environment to learn
+- Clear standards and fair assessment
+- Alternate explanations in lecture
+- Holding you accountable
+- Pointing you to resources
+
+## I am **not** responsible for
+
+- Tech support (Canvas, Top Hat, publisher platforms)
+- Bookstore / CTAP / billing problems
+- Tutoring or writing-center services
+- Forcing you to work or doing your work for you
+- Negotiating grades, excuses, or special exceptions to the syllabus
+- Anything your other courses require that conflicts with this one
+
+## Get help from the right place
+
+| Issue | Where to go |
+|-------|-------------|
+| Canvas / login | UH IT / Canvas support |
+| Top Hat account or device | Top Hat support (support@tophat.com) — start from the Canvas link |
+| Textbook / CTAP / billing | Bookstore or publisher support |
+| Writing, study skills, tutoring | UH Learning Support / Writing Center |
+| Course content questions | Class time and office hours (PGH 391) |
+
+I cannot fix platform, billing, or device problems for 700+ students. Use the specialized support channels.
+
+---
+
+# Policies that matter on day one
+
+## Communication
+
+- Preferred mode: **face-to-face** (class and office hours)
+- With ~750 students across sections, email need is minimal
+- Class cancellations: Canvas Announcements and official email
+- Other announcements: Canvas (during class time when possible)
+- **Do not email** excuses, grade questions, makeup or extension requests — discuss in person at office hours if needed
+- Emails not from `@cougarnet.uh.edu` or `@uh.edu` are ignored (privacy)
+
+## Grades (overview)
+
+Points-based (not category weights). Rough scale from syllabus:
+
+- Exams (midterm + final): 402 points
+- Top Hat: 260+ points
+- Inquizitives: 250 points
+- Professionalism: 100 points
+- Syllabus / intro quizzes: 100 points
+- Simulations: 50 points
+
+Full detail and letter cutoffs are in the syllabus. Point totals may be refined in week one.
+
+## Late work and makeups
+
+- Late Inquizitives: accepted with automatic daily penalty
+- Missed midterm: final exam percentage applies automatically — no petition needed
+- Missed Top Hat days: no makeup
+- Policy is already generous — **no special exceptions**
+
+Asking for special treatment is asking for an ethical problem. It can affect your professionalism score.
+
+## Attendance
+
+- Not a separate graded category
+- Top Hat is how presence is recorded for in-class points
+- Small attendance bonus (see syllabus) if you miss no more than one class
+- You must get Top Hat working on your device (Top Hat support if needed)
+
+## Academic integrity
+
+- Non-negotiable
+- Do your own work
+- Respect other people
+
+---
+
+# Study so it sticks
+
+## The forgetting curve
+
+Cramming once does not work. Short, repeated review does.
+
+- Start Inquizitives early; revisit them before exams
+- Use flashcards a few minutes, a few times a week
+- Rewrite ideas in your own words
+- Ask in class or at office hours when stuck
+
+## Notes
+
+- Use the published slides as an outline — do not photograph the screen
+- Slides will be available via Canvas / published links
+- A system such as Cornell Notes helps more than passive re-reading
+
+---
+
+# Next steps
+
+## Before you leave campus today / this week
+
+1. Open Canvas → this course → **Module 0**
+2. Register textbook access (CTAP or as directed)
+3. Register **Top Hat through the Canvas link**
+4. Complete required Module 0 quizzes
+5. Deadline: **September 9, 2026 (ORD)** — no extensions for drop protection
+
+## Next class
+
+- What is government?
+- Bring questions about Module 0, Top Hat, or Canvas
+- Be ready for Top Hat activity
+
+## Questions
+
+Ask now — or at office hours in **PGH 391**, Tue/Thu 2:30–3:20 PM.
+
+---
+
+## Authorship and license
+
+- Author: Tom Hanna
+- Website: [tomhanna.me](https://tom-hanna.org/)
+- License: [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
