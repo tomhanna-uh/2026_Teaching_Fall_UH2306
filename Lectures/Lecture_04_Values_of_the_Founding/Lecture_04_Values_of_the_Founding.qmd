@@ -79,6 +79,10 @@ True vs. despotic forms
 Rule for the common good — or for the rulers’ interest?
 :::
 
+## Aristotle: True vs Despotic Forms
+
+![](../../assets/gemini_aristotle_2.jfif){width="100%"}
+
 # Classical Liberalism
 
 ## Classical liberalism
@@ -143,17 +147,22 @@ Property — product of labor = product of life and liberty
 
 ## How much limit?
 
-::: {.custom-style style="font-size: 60px;"}
-A spectrum — not a single correct slogan
-:::
+![](../../assets/the_spectrum_of_force.jfif){width="100%"}
 
 ## Most restrained
 
-::: {.custom-style style="font-size: 50px;"}
+:::: {.columns}
+::: {.column width="35%"}
+![Henry David Thoreau](../../assets/thoreau.jpg){width="100%"}
+:::
+::: {.column width="65%"}
+::: {.custom-style style="font-size: 42px;"}
 “That government is best which governs not at all.”
 :::
 
 — Henry David Thoreau, *Civil Disobedience* (1849)
+:::
+::::
 
 ## Pacifism / non-aggression
 
@@ -185,6 +194,10 @@ Force only when and how a constitution allows
 
 ## Social contract (visual)
 
+![](../../assets/the_bargain.jfif){width="90%"}
+
+## The bargain
+
 | The people agree to… | The government agrees to… |
 |----------------------|---------------------------|
 | Give up some freedom | Protect fundamental rights |
@@ -192,9 +205,16 @@ Force only when and how a constitution allows
 
 ## Social contract — names
 
-::: {.custom-style style="font-size: 55px;"}
+:::: {.columns}
+::: {.column width="35%"}
+![John Locke](../../assets/locke.jpg){width="100%"}
+:::
+::: {.column width="65%"}
+::: {.custom-style style="font-size: 48px;"}
 Hobbes · Locke · Rousseau — different bargains
 :::
+:::
+::::
 
 # Hard Cases
 
