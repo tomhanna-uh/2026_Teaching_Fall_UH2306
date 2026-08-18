@@ -7,6 +7,7 @@ date: "August 24/25, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.png
@@ -47,9 +48,9 @@ US and Texas Constitution and Politics
 
 ## What this course is about
 
-How can we live together peacefully as members of a society of dignified equals?
+- How can we live together peacefully as members of a society of dignified equals?
 
-We examine the constitutional structure and politics of the United States **and** Texas — why the rules exist, how they limit power, and what that means for citizens.
+- We examine the constitutional structure and politics of the United States **and** Texas — why the rules exist, how they limit power, and what that means for citizens.
 
 ---
 
