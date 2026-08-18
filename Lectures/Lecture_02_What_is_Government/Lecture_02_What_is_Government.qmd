@@ -167,44 +167,35 @@ What makes government or The State different from other organizations? Is collec
 The organized coercive use of physical (violent) force that is commonly accepted as legitimate
 :::
 
-## Key terms in the definition
-
-- Organized
-- Coercive
-- Physical (violent) force
-- Legitimate
-
 ## Organized
 
-Not random individuals acting alone.
-
-Structure, roles, continuity — an institution that outlasts any one person in office.
+::: {.custom-style style="font-size: 90px;"}
+Organized
+:::
 
 ## Coercive
 
-Not a request. Not a suggestion.
+::: {.custom-style style="font-size: 90px;"}
+Coercive
+:::
 
-Compliance is backed by the ability to compel — including against your will.
+## Physical Force
 
-## Physical (violent) force
-
-Ultimately rooted in physical power: police, courts, prisons, military.
-
-Fines and orders matter because physical enforcement stands behind them.
+::: {.custom-style style="font-size: 90px;"}
+Physical Force
+:::
 
 ## Legitimate
 
-Commonly accepted as rightful — by enough people that the system holds.
-
-Same force without legitimacy is crime, vigilantism, or terror — not government.
+::: {.custom-style style="font-size: 90px;"}
+Legitimate
+:::
 
 ## Putting it together
 
 ::: {.custom-style style="font-size: 55px;"}
 Government = organized + coercive + physical force + legitimacy
 :::
-
-That combination is what other organizations lack.
 
 ## What Is Politics?
 
