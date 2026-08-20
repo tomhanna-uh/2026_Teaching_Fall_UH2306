@@ -1,15 +1,16 @@
 ---
-title: "Lecture 08: Bill of Rights Part 1"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+title: "Lecture 8: Bill of Rights Part 1"
+subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "September 21 / 22, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,274 @@ format:
     toc: true
 ---
 
-# Bill of Rights Part 1
+## Today
 
-## Placeholder
+- "Congress shall make no law…" — federal only
+- Religion clauses: establishment and free exercise
+- The home as a special zone of protection
+- What the text does *not* create: a general right to privacy
+- A basis for asking: What is missing?
 
-Content to be developed (Winston-style shared core).
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 52px;"}
+By the end of today you will explain why "Congress shall make no law" originally bound only the federal government, how the religion clauses protected both free exercise and state establishments, and why the Bill of Rights treats the home as a special zone of protection without creating a general right to privacy — giving you a basis for asking: What is missing?
+:::
+
+## Bridge
+
+- Unfinished contract and formal amendments (Lecture 7)
+- Today: the first great list of limits on *federal* power
+- As understood at the Founding — and what changed in the 1940s
+
+# Congress Shall Make No Law
+
+## Congress shall make no law…
+
+![Large text emphasizing Congress shall make no law](../../assets/congress_shall.jfif){fig-alt="Typographic slide highlighting the phrase Congress shall make no law" width="90%"}
+
+## Federal only
+
+::: {.custom-style style="font-size: 55px;"}
+The Bill of Rights originally limited the *federal* government — not the states
+:::
+
+## As understood at the time
+
+- Demand was for restraint on the new national government
+- Most states already had their own bills or declarations of rights
+- Barron v. Baltimore (1833): Bill of Rights does not apply to the states
+- That understanding held until the 1940s (incorporation through the 14th)
+
+# Religion Clauses
+
+## First Amendment — religion
+
+::: {.custom-style style="font-size: 42px;"}
+Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof…
+:::
+
+## No national establishment
+
+- No official national church
+- No automatic membership by birth
+- No national tax support for churches
+- No federal payment of clergy salaries
+
+## It protected state establishments
+
+![Timeline of state church establishments and disestablishment](../../assets/disestablishment.jfif){fig-alt="Timeline showing all 13 states had established churches in 1776, with disestablishment in Virginia 1786, New Hampshire 1817, and Massachusetts 1833" width="100%"}
+
+## Free exercise
+
+::: {.custom-style style="font-size: 50px;"}
+Practice according to conscience — or not
+:::
+
+## Worked with, not against
+
+::: {.custom-style style="font-size: 48px;"}
+No establishment and free exercise reinforce each other
+:::
+
+## Not in the text
+
+::: {.custom-style style="font-size: 48px;"}
+"Separation of church and state" does not appear in the Constitution
+:::
+
+# Second Amendment
+
+## Second Amendment
+
+::: {.custom-style style="font-size: 40px;"}
+A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
+:::
+
+## As written
+
+- Militia clause explains one reason the right is desirable
+- The right is held by *the people*
+- Disagreement about the explanation does not erase the right of the people
+
+# The Home
+
+## Third Amendment
+
+::: {.custom-style style="font-size: 40px;"}
+No Soldier shall, in time of peace be quartered in any house, without the consent of the Owner, nor in time of war, but in a manner to be prescribed by law.
+:::
+
+## The home is your castle
+
+![Illustration of the home as castle](../../assets/home_castle.jfif){fig-alt="Simple illustration with the text The home is your castle" width="85%"}
+
+## Fourth Amendment
+
+::: {.custom-style style="font-size: 36px;"}
+The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated…
+:::
+
+## The home is your castle
+
+![Illustration of the home as castle](../../assets/home_castle.jfif){fig-alt="Simple illustration with the text The home is your castle" width="85%"}
+
+## Secure in their…
+
+![Four sanctums of the Fourth Amendment: persons, houses, papers, effects](../../assets/secure.jfif){fig-alt="Diagram of the four protected categories under the Fourth Amendment: persons, houses, papers, and effects" width="95%"}
+
+## Warrant requirements
+
+- Probable cause
+- Oath or affirmation
+- Particular description of place
+- Particular description of persons or things
+
+# Property and Due Process
+
+## Fifth Amendment — property focus
+
+::: {.custom-style style="font-size: 42px;"}
+…nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
+:::
+
+## Due process protects
+
+- Life
+- Liberty
+- Property
+
+## Takings Clause
+
+::: {.custom-style style="font-size: 50px;"}
+Public use + just compensation
+:::
+
+## Later
+
+::: {.custom-style style="font-size: 48px;"}
+Criminal-suspect protections in the Fifth, Sixth, and Eighth return in Court Cases lectures
+:::
+
+# People and States
+
+## Ninth Amendment
+
+::: {.custom-style style="font-size: 42px;"}
+The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
+:::
+
+## Tenth Amendment
+
+::: {.custom-style style="font-size: 40px;"}
+The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
+:::
+
+## Rights and powers
+
+![Diagram distinguishing rights of the people from powers of the states](../../assets/rights_powers.jfif){fig-alt="Two-panel diagram: Rights of the People versus Powers of the States, noting the Founders distinguished person from citizen" width="95%"}
+
+## Person and citizen
+
+::: {.custom-style style="font-size: 50px;"}
+The Founders knew the difference between a person and a citizen
+:::
+
+# What Is Missing?
+
+## No general right to privacy
+
+::: {.custom-style style="font-size: 48px;"}
+Massive protections for the home — no free-floating right to privacy in the text
+:::
+
+## Survey / poll
+
+Should we pass a right-to-privacy amendment?
+
+*(Top Hat survey — completion credit)*
+
+- What should it say?
+- How and where should it apply?
+
+## Incorporation (preview)
+
+::: {.custom-style style="font-size: 48px;"}
+Most of these limits later reach the states through the 14th Amendment — we return there in Court Cases
+:::
+
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Bill of Rights Part 1
+
+The Bill of Rights originally limited only the federal government. "Congress shall make no law" was understood at the Founding to restrain the national government; most states already had their own rights declarations. Barron v. Baltimore (1833) confirmed the Bill of Rights did not apply to the states; that understanding held until incorporation through the 14th Amendment in the 1940s and after. The religion clauses prohibit a national establishment and protect free exercise; they worked with each other, not against. In 1776 all thirteen states had established churches; disestablishment proceeded state by state (Virginia 1786, New Hampshire 1817, Massachusetts 1833). The phrase "separation of church and state" does not appear in the Constitution. The Second Amendment, as written, ties a militia explanation to a right of the people to keep and bear arms. The Third and Fourth Amendments (and the property side of the Fifth) treat the home as a special zone of protection — "the home is your castle." The Fourth protects persons, houses, papers, and effects against unreasonable searches and seizures and sets warrant requirements. The Fifth protects life, liberty, and property with due process and requires just compensation for takings for public use; criminal-suspect pieces of the Fifth, Sixth, and Eighth return in later Court Cases lectures. The Ninth protects unenumerated rights retained by the people; the Tenth reserves undelegated powers to the states or the people. The Founders distinguished rights of the people from powers of the states, and person from citizen. There is no general free-floating right to privacy in the text, even though home protections are extensive — which raises the open question whether a privacy amendment should be added, and what it should say.
+
+## Top Hat questions (auto-scored)
+
+**T/F:** As originally understood, the Bill of Rights limited state governments as well as the federal government.  
+*Answer: False*
+
+**Multiple choice:** The Establishment Clause, as framed in this lecture, originally:  
+A) Required every state to disestablish its church immediately  
+B) Created a national church  
+C) Barred a national establishment while leaving state establishments intact  
+D) Used the exact phrase "separation of church and state"  
+*Answer: C*
+
+**T/F:** The phrase "separation of church and state" appears in the First Amendment.  
+*Answer: False*
+
+**Multiple choice:** Which best captures the "home is your castle" theme in this lecture?  
+A) Only the Third Amendment protects the home  
+B) Third, Fourth, and property-focused Fifth protections treat the home as a special zone  
+C) Privacy is an explicit general right in the Bill of Rights  
+D) The home has no special status compared to other property  
+*Answer: B*
+
+**Multiple answer:** The Fourth Amendment textually protects security in:  
+A) Persons  
+B) Houses  
+C) Papers  
+D) Effects  
+*Answers: A, B, C, D*
+
+**Multiple choice:** The Takings Clause requires:  
+A) No taking of private property under any circumstances  
+B) Public use and just compensation  
+C) Only presidential approval  
+D) A constitutional amendment for each taking  
+*Answer: B*
+
+**Likert (survey / completion):** Should the United States adopt a constitutional right-to-privacy amendment?  
+1 = Definitely not … 5 = Definitely yes
+
+**Likert (survey / completion):** If a privacy amendment were written, how important is it that it specify *where* it applies (home only vs. broader)?  
+1 = Not important … 5 = Essential
+
+---
+
+# Next
+
+## Next class (September 23 / 24): US vs Texas Constitutions
+
+Then Better Angels (September 28 / 29).
+
+## Reminders
+
+- Stay current on Module work and Top Hat
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+| | |
+|:---|:---|
+| **Author** | Tom Hanna |
+| **Website** | [tomhanna.me](https://tom-hanna.org/) |
+| **License** | [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
+
+[![Creative Commons License](../../assets/creative_commons_license.png){fig-alt="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License badge"}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
