@@ -57,6 +57,10 @@ By the end of today you will explain how the original bargain fell short of its 
 - Expand political participation
 - Allow individuals to flourish
 
+## The unfinished contract
+
+![Torn document representing the unfinished social contract](../../assets/unfinished_contract.jfif){fig-alt="Illustration of a torn or unfinished written contract symbolizing the incomplete original constitutional bargain" width="70%"}
+
 # The Breach
 
 ## Biggest flaw by its own ideals?
@@ -93,9 +97,16 @@ What to the Slave Is the Fourth of July?
 
 ## Douglass on the Founders
 
-::: {.custom-style style="font-size: 42px;"}
+:::: {.columns}
+::: {.column width="35%"}
+![Portrait of Frederick Douglass](../../assets/douglass_what_to_the_slave.jpg){fig-alt="Historical portrait of Frederick Douglass" width="100%"}
+:::
+::: {.column width="65%"}
+::: {.custom-style style="font-size: 36px;"}
 “I am not wanting in respect for the fathers of this republic… With them, nothing was ‘settled’ that was not right.”
 :::
+:::
+::::
 
 ## Douglass’s move
 
@@ -128,11 +139,13 @@ Amendments as formal rewrites of the original agreement
 | 1964 | 24th | No poll tax in federal elections |
 | 1971 | 26th | Vote at age 18 |
 
+## Expanding the contract
+
+![Timeline of major amendments expanding the constitutional contract](../../assets/contract_timeline.jfif){fig-alt="Horizontal timeline of constitutional amendments from 1865 to 1971 expanding rights and participation" width="100%"}
+
 ## Expanding the circle
 
-::: {.custom-style style="font-size: 50px;"}
-Expanding the circle of those protected and those participating in government
-:::
+![Diagram of the expanding circle of those protected and participating](../../assets/expanding_circle.jfif){fig-alt="Concentric or growing circles showing expansion of constitutional protection and political participation over time" width="85%"}
 
 # Ink Needs Backup
 
@@ -203,9 +216,7 @@ If you never signed the contract, are you bound by its terms?
 
 ## Three steps (open question)
 
-1. You never personally consented
-2. The original signers are dead
-3. You are compelled to participate anyway
+![Flowchart of Spooner's three-step argument](../../assets/spooner_argument.jfif){fig-alt="Three-step flowchart: no personal consent, original signers dead, participation compelled" width="95%"}
 
 ## Why that makes rights urgent
 
