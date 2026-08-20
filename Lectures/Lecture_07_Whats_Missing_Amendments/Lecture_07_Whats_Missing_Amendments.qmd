@@ -1,15 +1,16 @@
 ---
-title: "Lecture 07: The Unfinished Contract"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+title: "Lecture 7: The Unfinished Contract"
+subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "September 16 / 17, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,284 @@ format:
     toc: true
 ---
 
-# What's Missing / Amendments
+## Today
 
-## Placeholder
+- The unfinished contract
+- What was missing at the Founding
+- Civil War and voting amendments
+- ERA and the 14th Amendment angle
+- Why formal amendment matters
+- An open question about consent
 
-Content to be developed (Winston-style shared core).
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 55px;"}
+By the end of today you will explain how the original bargain fell short of its own ideals, how formal amendments renegotiated it, and why an unsigned contract still makes rights ethically urgent.
+:::
+
+## Bridge
+
+- Government = organized coercive force accepted as legitimate
+- Origins and safeguards (Lectures 5–6)
+- Today: what the original deal left out — and how the country has tried to rewrite the terms
+
+# The Bargain
+
+## The deal on paper
+
+| The people agree to… | The government agrees to… |
+|----------------------|---------------------------|
+| Give up some freedom | Protect fundamental rights |
+| Submit to some coercion | Life · Liberty · Property |
+
+## Classical liberalism (reminder)
+
+- Limit the power of government
+- Expand political participation
+- Allow individuals to flourish
+
+## The unfinished contract
+
+![Torn document representing the unfinished social contract](../../assets/unfinished_contract.jfif){fig-alt="Illustration of a torn or unfinished written contract symbolizing the incomplete original constitutional bargain" width="70%"}
+
+# The Breach
+
+## Biggest flaw by its own ideals?
+
+::: {.custom-style style="font-size: 70px;"}
+Slavery
+:::
+
+## Antithesis
+
+::: {.custom-style style="font-size: 48px;"}
+Slavery was the absolute antithesis of the contract’s promise of liberty and participation for all.
+:::
+
+## Excluded from the deal
+
+- Enslaved people — denied rights; treated as property inside the system
+- Women — citizens, but locked out of the political side of the bargain
+- Limited voting — property, race, gender barriers
+
+## Imperfect by its own standards
+
+::: {.custom-style style="font-size: 55px;"}
+America started imperfect by the measure of its own ideals
+:::
+
+# Douglass
+
+## Frederick Douglass — 1852
+
+::: {.custom-style style="font-size: 48px;"}
+What to the Slave Is the Fourth of July?
+:::
+
+## Douglass on the Founders
+
+:::: {.columns}
+::: {.column width="35%"}
+![Portrait of Frederick Douglass](../../assets/douglass_what_to_the_slave.jpg){fig-alt="Historical portrait of Frederick Douglass" width="100%"}
+:::
+::: {.column width="65%"}
+::: {.custom-style style="font-size: 36px;"}
+“I am not wanting in respect for the fathers of this republic… With them, nothing was ‘settled’ that was not right.”
+:::
+:::
+::::
+
+## Douglass’s move
+
+::: {.custom-style style="font-size: 50px;"}
+Condemn the breach — and invite the country to live up to its own ideals
+:::
+
+# Renegotiating the Terms
+
+## A 200-year renegotiation
+
+::: {.custom-style style="font-size: 55px;"}
+Amendments as formal rewrites of the original agreement
+:::
+
+## Civil War Amendments
+
+| Year | Amendment | Core change |
+|------|-----------|-------------|
+| 1865 | 13th | Abolishes slavery |
+| 1868 | 14th | Citizenship · equal protection · due process |
+| 1870 | 15th | Vote not denied by race |
+
+## Voting and participation
+
+| Year | Amendment | Core change |
+|------|-----------|-------------|
+| 1913 | 17th | Direct election of Senators |
+| 1920 | 19th | Vote not denied by sex |
+| 1964 | 24th | No poll tax in federal elections |
+| 1971 | 26th | Vote at age 18 |
+
+## Expanding the contract
+
+![Timeline of major amendments expanding the constitutional contract](../../assets/contract_timeline.jfif){fig-alt="Horizontal timeline of constitutional amendments from 1865 to 1971 expanding rights and participation" width="100%"}
+
+## Expanding the circle
+
+![Diagram of the expanding circle of those protected and participating](../../assets/expanding_circle.jfif){fig-alt="Concentric or growing circles showing expansion of constitutional protection and political participation over time" width="85%"}
+
+# Ink Needs Backup
+
+## Writing it down ≠ making it real
+
+::: {.custom-style style="font-size: 50px;"}
+14th Amendment ratified 1868 — sex discrimination under equal protection recognized in 1971
+:::
+
+## About 103 years
+
+::: {.custom-style style="font-size: 60px;"}
+Ink on parchment is only the first step
+:::
+
+## Enforcement statutes
+
+- Civil Rights Act of 1964
+- Voting Rights Act of 1965
+- Title IX (1972)
+- Americans with Disabilities Act (1991)
+
+## Formal amendment still matters
+
+::: {.custom-style style="font-size: 50px;"}
+Hard to adopt · hard to repeal · signals near-consensus · binds ordinary politics
+:::
+
+## Outside formal amendment (preview)
+
+::: {.custom-style style="font-size: 48px;"}
+Statutes · judicial interpretation · political practice — most of this returns in Bill of Rights and Courts lectures
+:::
+
+# ERA and the 14th
+
+## Equal Rights Amendment
+
+::: {.custom-style style="font-size: 55px;"}
+Attempted — not ratified
+:::
+
+## Unfinished renegotiation
+
+::: {.custom-style style="font-size: 50px;"}
+Shows how hard formal change is — and that “almost” is not enough
+:::
+
+## The 14th Amendment angle
+
+::: {.custom-style style="font-size: 45px;"}
+One view: ERA may be unnecessary — and may single women out as a class needing special protection they already have under the 14th
+:::
+
+## The counter
+
+::: {.custom-style style="font-size: 48px;"}
+The 14th is not explicit on sex — so protection still depends on the goodwill of future Courts
+:::
+
+# Consent
+
+## Spooner’s challenge
+
+::: {.custom-style style="font-size: 50px;"}
+If you never signed the contract, are you bound by its terms?
+:::
+
+## Three steps (open question)
+
+![Flowchart of Spooner's three-step argument](../../assets/spooner_argument.jfif){fig-alt="Three-step flowchart: no personal consent, original signers dead, participation compelled" width="95%"}
+
+## Why that makes rights urgent
+
+::: {.custom-style style="font-size: 48px;"}
+If no one really agreed explicitly, respecting basic rights is both an ethical imperative and a practical one
+:::
+
+## What else?
+
+::: {.custom-style style="font-size: 50px;"}
+What else needs to be done along these same lines — expanding the circle of those protected and those who participate?
+:::
+
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: What's missing and amendments
+
+The original constitutional bargain limited government and aimed to protect life, liberty, and property, but it was imperfect by its own classical-liberal standards. Slavery was the absolute antithesis of liberty and participation; enslaved people were treated as property within the system; women were locked out of the political side of the deal; voting was restricted by property, race, and gender. Frederick Douglass condemned the breach while inviting the country to live up to its ideals. Formal amendments renegotiated the terms: 13th (abolish slavery), 14th (citizenship, equal protection, due process), 15th (vote not denied by race), 17th (direct election of Senators), 19th (vote not denied by sex), 24th (no poll tax in federal elections), 26th (vote at 18). Expanding the circle of those protected and participating is the long arc. Writing an amendment down does not automatically make it real — equal protection was not applied to sex discrimination until about a century after the 14th. Enforcement statutes (Civil Rights Act 1964, Voting Rights Act 1965, Title IX, ADA) supply backup. Formal amendment remains hard to adopt and hard to repeal; it signals near-consensus and constrains ordinary politics. Changes outside formal amendment (statutes, judicial interpretation, practice) are flagged for later lectures. The ERA was attempted but not ratified; one argument is that the 14th already covers the ground and that a sex-specific amendment could be unnecessary or even framing women as a special class; the counter is that the 14th is not explicit on sex, so protection depends on future Courts. Spooner’s challenge — if you never signed, are you bound? — is left open; the lack of explicit personal consent is one more reason that respecting basic rights is both an ethical and a practical imperative.
+
+## Top Hat questions (auto-scored)
+
+**T/F:** In this lecture, slavery is described as consistent with the original social-contract ideal of liberty for all.  
+*Answer: False*
+
+**Multiple choice:** The 14th Amendment’s core additions in this lecture include:  
+A) Abolition of slavery only  
+B) Citizenship, equal protection, and due process  
+C) Direct election of the President  
+D) A balanced-budget requirement  
+*Answer: B*
+
+**Multiple choice:** The “about 103 years” point refers to:  
+A) Time from Independence to the Bill of Rights  
+B) Gap between 14th Amendment ratification and recognition of sex discrimination under equal protection  
+C) Length of the Civil War  
+D) Time until the ERA was ratified  
+*Answer: B*
+
+**T/F:** The Equal Rights Amendment was ratified and is part of the Constitution.  
+*Answer: False*
+
+**Multiple answer:** Which are treated as formal expansions of participation or protection in this lecture?  
+A) 15th Amendment  
+B) 19th Amendment  
+C) 17th Amendment  
+D) ERA (as ratified text)  
+*Answers: A, B, C*
+
+**Multiple choice:** Spooner’s challenge is left in this lecture as:  
+A) Proof that no government is ever legitimate  
+B) An open question that strengthens the ethical urgency of basic rights  
+C) A reason to ignore the Constitution  
+D) A settled historical fact about 1787  
+*Answer: B*
+
+**Likert (survey / completion):** How persuasive do you find the idea that “no explicit personal consent” makes respect for basic rights *more* urgent?  
+1 = Not at all … 5 = Very persuasive
+
+---
+
+# Next
+
+## Next class (September 21 / 22): Bill of Rights, Part 1
+
+Come ready to connect amendments and structure to specific listed rights.
+
+## Reminders
+
+- Stay current on Module work and Top Hat
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+| | |
+|:---|:---|
+| **Author** | Tom Hanna |
+| **Website** | [tomhanna.me](https://tom-hanna.org/) |
+| **License** | [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
+
+[![Creative Commons License](../../assets/creative_commons_license.png){fig-alt="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License badge"}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
