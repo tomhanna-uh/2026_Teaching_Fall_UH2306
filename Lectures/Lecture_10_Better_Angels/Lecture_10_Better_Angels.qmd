@@ -58,7 +58,7 @@ What is vivid and recent feels more common than it is
 
 ## Homicide over the long run
 
-![Long-run homicide rates in Western Europe](../../assets/homicide_long_run.png){fig-alt="Chart of long-run homicide rates across Western Europe showing large declines from the late Middle Ages to the present" width="95%"}
+![Long-run homicide rates in Western Europe](../../assets/europe_homicide_rates.png){fig-alt="Chart of long-run homicide rates across Western Europe showing large declines from the late Middle Ages to the present" width="95%"}
 
 ## Order of magnitude
 
@@ -98,15 +98,29 @@ Pre-modern: large shares of children died before adulthood — every country has
 
 ## Decoupling: pollution vs growth
 
-![U.S. air pollution emissions fell while GDP and population grew](../../assets/epa_decoupling.png){fig-alt="Index chart from 1970 showing criteria air pollutant emissions declining while U.S. GDP and population increased" width="95%"}
+![U.S. air pollution emissions fell while GDP and population grew](../../assets/epa_chart.png){fig-alt="EPA chart showing criteria air pollutant emissions declining since 1970 while U.S. GDP, vehicle miles, energy use, and population increased" width="95%"}
 
-## Cuyahoga
+## Cuyahoga — then
+
+![Cuyahoga River fire, 1948](../../assets/cuyahoga_1948.jpg){fig-alt="Historical photograph of a fire on the Cuyahoga River in 1948" width="90%"}
+
+## Cuyahoga — then
+
+![Smoke from Cuyahoga River fire, 1952](../../assets/cuyahoga_1952.jpg){fig-alt="Historical photograph of smoke from a fire on the Cuyahoga River in 1952" width="90%"}
+
+## Cuyahoga — then
+
+![Filth pulled from the Cuyahoga River](../../assets/cuyahoga_then.jpg){fig-alt="Historical photograph of three men viewing filth pulled from the Cuyahoga River" width="90%"}
+
+## Cuyahoga — now
+
+![Recreation on the Cuyahoga River near downtown, 2019](../../assets/cuyahoga_2019.png){fig-alt="Modern photograph of paddleboarders and windsurfers on the Cuyahoga River near downtown in 2019" width="90%"}
+
+## Same river
 
 ::: {.custom-style style="font-size: 48px;"}
 A river that repeatedly caught fire is now fishable and recreational
 :::
-
-*(Then/now photos — place in assets when ready)*
 
 # Optional if time
 
