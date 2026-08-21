@@ -1,15 +1,16 @@
 ---
 title: "Lecture 12: Republic vs Democracy"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "September 30 / October 1, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,267 @@ format:
     toc: true
 ---
 
-# Republic vs Democracy
+## Today
 
-## Placeholder
+- Why republics and democracies arose
+- What they replaced
+- How representative government works the idea
+- Republic, democracy, and minority rights — including property
 
-Content to be developed (Winston-style shared core).
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 46px;"}
+By the end of today you will explain why republics and democracies arose against abusive executives, define both terms, and show how representative government plus minority rights — including property — are two sides of the same project.
+:::
+
+# Why
+
+## The problem was the executive
+
+::: {.custom-style style="font-size: 48px;"}
+Kings turned tyrant — wealthy stationary bandits plundering those beneath them
+:::
+
+## Stationary bandit
+
+![Roving versus stationary bandit incentive to protect production](../../assets/bandits.png){fig-alt="Diagram contrasting roving raiders with a stationary ruler who has incentive to protect production in order to tax it" width="90%"}
+
+## Not a war on earned wealth
+
+::: {.custom-style style="font-size: 48px;"}
+Property rights protection *for* earned wealth — against predation from above
+:::
+
+## Bargain and protection
+
+![Lord and builders bargaining under a castle](../../assets/bandit_contract.png){fig-alt="Historical-style scene of a lord meeting builders, suggesting a bargain of protection for production" width="85%"}
+
+## Pledge to protect
+
+![Lord pledging to protect a village](../../assets/social_contract2.png){fig-alt="Scene of a lord pledging protection to a village community" width="85%"}
+
+## Locke
+
+![Portrait of John Locke](../../assets/locke.jpg){fig-alt="Portrait of John Locke" width="55%"}
+
+## Legitimate government and property
+
+::: {.custom-style style="font-size: 46px;"}
+Government exists to secure life, liberty, and property — not to be the chief predator
+:::
+
+# What
+
+## Overthrow and evolution
+
+- Rome: overthrow of kings
+- Britain / Europe: evolution of parliaments and councils
+
+## Top down, then broader
+
+::: {.custom-style style="font-size: 46px;"}
+First upper classes constrain the king — later towns, then commoners gain representation and rights
+:::
+
+## Parliament evolution
+
+![Vertical timeline of parliamentary expansion from barons to universal adult suffrage](../../assets/parliament_evolution.jfif){fig-alt="Vertical educational timeline of parliament evolving from great barons toward universal adult suffrage" width="42%"}
+
+## Note on the timeline
+
+Evolution of Parliament: **1215** great barons only → **1928** full women's suffrage in Britain.
+
+# How
+
+## Elected representative government
+
+::: {.custom-style style="font-size: 48px;"}
+Congress and legislatures as the institutional answer to unconstrained executives
+:::
+
+## A democratic social contract
+
+![Group meeting to form a democratic social contract](../../assets/social_contract.png){fig-alt="Scene of a mixed group meeting to form a democratic social contract without clear hierarchical social distinctions" width="85%"}
+
+# Definitions
+
+## Res publica and demos
+
+![Side-by-side res publica and demos-kratos with shared civic assembly background](../../assets/respublikademoskratos.jfif){fig-alt="Side-by-side diagram of res publica and demos plus kratos over a shared assembly of citizens" width="92%"}
+
+## Democracy
+
+::: {.custom-style style="font-size: 50px;"}
+Rule by the people
+:::
+
+## Republic
+
+::: {.custom-style style="font-size: 50px;"}
+*Res publica* — the public thing; government as the people's common affair
+:::
+
+## Historical accident
+
+::: {.custom-style style="font-size: 46px;"}
+"Republic means not a monarchy" is largely a historical accident of labeling
+:::
+
+Both democracy and republic, in the Western story, were reactions to abusive executives.
+
+# Aristotle
+
+## True vs despotic forms
+
+![Aristotle true versus despotic forms of government](../../assets/gemini_aristotle_2.jfif){fig-alt="Diagram of Aristotle true versus despotic forms of government including monarchy tyranny aristocracy oligarchy polity democracy" width="90%"}
+
+## Warning in the vocabulary
+
+::: {.custom-style style="font-size: 46px;"}
+For Aristotle, "democracy" could mean rule by the many for themselves — a corrupt form
+:::
+
+# Madison
+
+## Pure democracy vs republic
+
+![Madison contrast of pure democracy and republic](../../assets/madison_democracy.jfif){fig-alt="Two-column diagram contrasting pure democracy with a republic along Madison Federalist 10 lines" width="92%"}
+
+## Federalist 10 in one line
+
+::: {.custom-style style="font-size: 46px;"}
+Representation and a larger sphere filter faction; pure democracy amplifies it
+:::
+
+## Today's language
+
+- Madison's "democracy" ≈ direct assembly / mob risk
+- He did **not** oppose election of representatives
+- Today's "liberal democracy" is much closer to what he called a republic
+
+# Two sides of the same coin
+
+## When the original point holds
+
+::: {.custom-style style="font-size: 46px;"}
+Republic and democracy converge when minority rights — including property — are protected
+:::
+
+## That was the point
+
+Against the stationary bandit and against majority plunder alike.
+
+# Suffrage expansion
+
+## U.S. path
+
+![Schematic U.S. suffrage expansion timeline](../../assets/suffrage_evolution.jfif){fig-alt="Schematic timeline of U.S. suffrage expansion from a narrow founding electorate toward universal adult suffrage" width="92%"}
+
+## Comparison note
+
+- Britain: Parliament from **1215** (great barons) to **1928** (full women's suffrage)
+- United States: **1789** already much broader than "barons only" → **1920** full women's suffrage
+
+Historically fast expansion of who counts in "the people."
+
+# Property, investment, prosperity
+
+## Secure rights → invest → real wealth
+
+![Property rights to investment to broad prosperity of the people](../../assets/property_rights.jfif){fig-alt="Three-step flow from secure property rights to investment and production to real wealth of ordinary people" width="92%"}
+
+## Investment is broad
+
+::: {.custom-style style="font-size: 46px;"}
+Not only stocks and bonds — education is an investment
+:::
+
+## You are investing now
+
+Deferring current income and spending for a better life later.
+
+Protection of broad-based property rights and expansion of democracy support broad-based prosperity.
+
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Republic vs Democracy
+
+Republics and democracies in the Western tradition arose largely as reactions to abusive executives — kings turned tyrant, modeled as stationary bandits who prey on production unless constrained. The project was protection of earned property against predation from above, not a war on earned wealth. Evolution was often top-down: upper classes first used councils and parliaments against kings; later towns and commoners gained representation. Democracy means rule by the people; republic (res publica) means the public thing — government as the people's common affair. "Republic = not monarchy" is partly a labeling accident. Aristotle warned that "democracy" could mean rule by the many for themselves (a corrupt form). Madison in Federalist 10 contrasted pure democracy (citizens assemble in person; works only when small; majority faction) with a republic (representation; can scale; filters faction). He did not oppose electing representatives; modern liberal democracy is closer to his republic. Republic and democracy converge when minority rights, including property, are protected. British parliamentary expansion ran from great barons (1215) to full women's suffrage (1928); the U.S. began broader in 1789 and reached full women's suffrage in 1920. Secure property rights support investment — including education — and broad-based real prosperity.
+
+## Top Hat questions
+
+**Definitions — MC:** *Res publica* most nearly means:  
+A) Rule by the army  
+B) The public thing / common public affair  
+C) Hereditary monarchy  
+D) Rule by the rich only  
+*Answer: B*
+
+**Definitions — MC:** Democracy, in basic etymology, means:  
+A) Rule by experts  
+B) Rule by the people  
+C) Absence of law  
+D) Empire  
+*Answer: B*
+
+**Olson — T/F:** The "stationary bandit" idea is that a settled ruler may protect production because it is a tax base.  
+*Answer: True*
+
+**Madison — MC:** In Federalist 10, Madison's pure democracy is characterized by:  
+A) Only hereditary offices  
+B) Citizens assembling and governing in person  
+C) A single emperor  
+D) No elections ever  
+*Answer: B*
+
+**Madison — T/F:** Madison opposed the election of representatives.  
+*Answer: False*
+
+**Aristotle — T/F:** Aristotle sometimes used "democracy" for a corrupt form in which the many rule for themselves.  
+*Answer: True*
+
+**Suffrage — MC:** Relative to medieval "great barons only," the U.S. founding electorate was:  
+A) Identical to barons only  
+B) Already much broader, then expanded further  
+C) Universal adult suffrage from day one  
+D) Limited to the army  
+*Answer: B*
+
+**Property — MC:** In this lecture's framing, education counts as:  
+A) Only consumption  
+B) An investment (deferring present income for future returns)  
+C) Unrelated to property rights  
+D) Only for the wealthy  
+*Answer: B*
+
+**Synthesis — Likert:** How strongly do you agree: "Republic and democracy are two sides of the same coin when minority rights including property are protected."  
+1 = Strongly disagree … 5 = Strongly agree
+
+---
+
+# Next
+
+## Next lecture
+
+Congress constraining the executive
+
+## Reminders
+
+- Module 2 due October 9
+- Midterm October 12–17 in CASA — signup opens two weeks before October 12
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+| | |
+|:---|:---|
+| **Author** | Tom Hanna |
+| **Website** | [tomhanna.me](https://tom-hanna.org/) |
+| **License** | [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
+
+[![Creative Commons License](../../assets/creative_commons_license.png){fig-alt="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License badge"}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
