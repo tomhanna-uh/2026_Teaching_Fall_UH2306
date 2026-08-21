@@ -1,15 +1,16 @@
 ---
-title: "Lecture 09: US vs Texas Constitutions"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+title: "Lecture 9: US vs Texas Constitutions"
+subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "September 23 / 24, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,289 @@ format:
     toc: true
 ---
 
-# US vs Texas Constitutions
+## Today
 
-## Placeholder
+- Why Texas puts rights first and structure later
+- "Two articles behind" as a design pattern
+- Why the Texas Constitution is so much longer
+- Core differences in the three branches
 
-**UH only.** Book carries most Texas institutional detail. Light comparison + federalism themes.
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 46px;"}
+By the end of today you will explain why the Texas Constitution puts rights first and structure two articles "behind" the U.S. model, why its length reflects residual state power under federalism, and how the plural executive and dual high courts differ from the national design.
+:::
+
+# Historical Opening
+
+## Suspicion of central power
+
+![Historical pathways to limited government in Texas](../../assets/historical_pathways.jfif){fig-alt="Abstract educational illustration of historical pathways leading toward limits on central power" width="90%"}
+
+## Four rebellions in living memory
+
+- Mexican independence
+- American Revolution (indirect inheritance)
+- Texas Revolution
+- Civil War and Reconstruction
+
+## 1876
+
+::: {.custom-style style="font-size: 48px;"}
+Even more suspicious of concentrated power than the U.S. Founders
+:::
+
+## Rights of the people
+
+::: {.custom-style style="font-size: 46px;"}
+Written in the language of rights of "the people" — language we now apply far more equally than in 1876
+:::
+
+# Rights First
+
+## Rights first vs powers first
+
+![U.S. powers first versus Texas rights first](../../assets/rights_first.jfif){fig-alt="Two-panel diagram contrasting U.S. powers-first framing with Texas rights-first framing" width="95%"}
+
+## U.S. pattern
+
+- Articles I–III: grant and structure power
+- Bill of Rights: added later as amendments
+
+## Texas pattern
+
+- Article I: Bill of Rights — limitations first
+- Then structure of government
+
+# Two Articles Behind
+
+## The map
+
+![Side-by-side article maps of U.S. and Texas Constitutions](../../assets/article_maps.jfif){fig-alt="Side-by-side outline showing Texas legislative, executive, and judicial articles two numbers behind the U.S. equivalents because Texas Article I is the Bill of Rights" width="95%"}
+
+## Why the lag?
+
+::: {.custom-style style="font-size: 50px;"}
+Because Texas put the Bill of Rights in Article I
+:::
+
+## Matching table
+
+| U.S. | Texas |
+|------|--------|
+| Article I — Legislature | Article III — Legislature |
+| Article II — Executive | Article IV — Executive |
+| Article III — Judiciary | Article V — Judiciary |
+
+Texas Article I = Bill of Rights  
+Texas Article II = powers of government / separation
+
+# Size and Federalism
+
+## Pamphlet and book
+
+![U.S. Constitution as thin pamphlet beside thick Texas Constitution](../../assets/size_comparison.jfif){fig-alt="Visual comparison of a thin U.S. Constitution pamphlet next to a much thicker Texas Constitution volume" width="90%"}
+
+## Rough scale
+
+::: {.custom-style style="font-size: 48px;"}
+Texas Constitution ≈ 20× the length of the U.S. Constitution
+:::
+
+## Why so long?
+
+::: {.custom-style style="font-size: 46px;"}
+Most governing power was left to the states — so state constitutions do the detailed work
+:::
+
+## Federal design
+
+- U.S. Constitution: few enumerated powers
+- 10th Amendment: the rest reserved to the states or the people
+- A long state constitution is the normal counterpart of a short federal one
+
+## Extra-constitutional federal action
+
+::: {.custom-style style="font-size: 46px;"}
+Much of what the modern federal government does sits outside clear enumeration — education is the cleanest example
+:::
+
+# Legislature
+
+## Two articles behind
+
+::: {.custom-style style="font-size: 50px;"}
+U.S. Article I → Texas Article III
+:::
+
+## Core differences
+
+- Biennial sessions
+- Regular session limited to 140 days
+- Low legislative pay
+- Comptroller must certify available revenue
+
+## Design intent
+
+::: {.custom-style style="font-size: 48px;"}
+A part-time, constrained legislature — harder to expand government casually
+:::
+
+# Executive
+
+## Two articles behind
+
+::: {.custom-style style="font-size: 50px;"}
+U.S. Article II → Texas Article IV
+:::
+
+## Unitary vs plural
+
+![U.S. unitary executive beside Texas plural executive](../../assets/plural_exec.jfif){fig-alt="Side-by-side diagram of the U.S. unitary presidency versus the Texas plural executive with six independently elected offices" width="95%"}
+
+## Plural executive (Article IV)
+
+- Governor
+- Lieutenant Governor
+- Attorney General
+- Comptroller of Public Accounts
+- Commissioner of the General Land Office
+- Commissioner of Agriculture
+
+## Also elected (outside Article IV)
+
+- Railroad Commission (oil and gas — not railroads)
+
+## Design intent
+
+::: {.custom-style style="font-size: 48px;"}
+No single elected executive holds the whole executive power
+:::
+
+# Judiciary
+
+## Two articles behind
+
+::: {.custom-style style="font-size: 50px;"}
+U.S. Article III → Texas Article V
+:::
+
+## Unitary vs dual high courts
+
+![U.S. single Supreme Court beside Texas dual high courts](../../assets/dual_courts.jfif){fig-alt="Side-by-side diagram of the U.S. unitary Supreme Court hierarchy versus Texas dual high courts for civil and criminal cases" width="95%"}
+
+## Dual high courts
+
+- Supreme Court of Texas — civil
+- Court of Criminal Appeals — criminal
+
+## Selection and tenure
+
+- Texas: elected judges, fixed terms
+- U.S.: appointed, life tenure during good behavior
+
+# Texas-Specific Principles
+
+## Examples of detailed state policy in the constitution
+
+- Homestead protection
+- No state personal income tax
+
+## Why in the constitution?
+
+::: {.custom-style style="font-size: 48px;"}
+Harder to change than ordinary statute — another limit on government
+:::
+
+# So What
+
+## Pattern
+
+- Rights first
+- Structure two articles behind the U.S. model
+- Length = residual state power under federalism
+- Branches designed to fragment and constrain power
+
+## Test yourself
+
+::: {.custom-style style="font-size: 48px;"}
+Why does the Texas Constitution lag two articles behind the U.S. on legislature, executive, and judiciary?
+:::
+
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: US vs Texas Constitutions
+
+The Texas Constitution opens with a Bill of Rights as Article I, reflecting greater suspicion of concentrated power after a sequence of conflicts that includes Mexican independence, the American founding inheritance, the Texas Revolution, and the Civil War and Reconstruction. The U.S. Constitution grants and structures power in Articles I–III and adds rights later as amendments. Because Texas places rights in Article I (and powers of government in Article II), its Legislative, Executive, and Judicial articles are III, IV, and V — two articles "behind" the U.S. numbering. The Texas document is roughly twenty times longer because federalism left most governing detail to the states; a short federal constitution and long state constitutions are complementary. Much modern federal activity (e.g., education) is not clearly enumerated. Branch differences include a biennial, session-limited, low-pay legislature with Comptroller revenue certification; a plural executive of six Article IV officers plus the Railroad Commission; and dual high courts (civil and criminal) with elected judges serving fixed terms. Homestead protection and the ban on a state personal income tax illustrate Texas-specific limits placed in the constitution rather than ordinary statute.
+
+## Top Hat questions
+
+**Early — multiple choice:** In the Texas Constitution, the Bill of Rights is:  
+A) An amendment package at the end  
+B) Article I  
+C) Article II  
+D) Only implied by the 14th Amendment  
+*Answer: B*
+
+**Early — T/F:** The U.S. Constitution places the Bill of Rights in Article I.  
+*Answer: False*
+
+**Mid — matching style MC:** Texas Legislature is established in:  
+A) Article I  
+B) Article II  
+C) Article III  
+D) Article IV  
+*Answer: C*
+
+**Mid — T/F:** Texas has a unitary elected executive equivalent to the U.S. President.  
+*Answer: False*
+
+**Mid — MC:** Texas has:  
+A) One high court for all cases  
+B) Separate high courts for civil and criminal cases  
+C) No state supreme court  
+D) Only federal courts  
+*Answer: B*
+
+**Late — conceptual MC:** The Texas Constitution is much longer than the U.S. Constitution primarily because:  
+A) Texas lawyers bill by the word  
+B) Federalism left most detailed governing power to the states  
+C) The U.S. Constitution is incomplete  
+D) Texas never amended its document  
+*Answer: B*
+
+**Late — conceptual MC:** The "two articles behind" pattern exists because Texas:  
+A) Copied the Articles of Confederation numbering  
+B) Put the Bill of Rights first and powers of government second  
+C) Added two blank articles as placeholders  
+D) Follows the Confederate Constitution  
+*Answer: B*
+
+**Late — Likert:** How strongly do you agree: "The Texas design prioritizes limiting government power even more visibly than the federal design."  
+1 = Strongly disagree … 5 = Strongly agree
+
+---
+
+# Next
+
+## Next class (September 28 / 29): Better Angels of Our Nature
+
+## Reminders
+
+- Nothing due this week beyond staying current on Top Hat and Module work
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+| | |
+|:---|:---|
+| **Author** | Tom Hanna |
+| **Website** | [tomhanna.me](https://tom-hanna.org/) |
+| **License** | [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
+
+[![Creative Commons License](../../assets/creative_commons_license.png){fig-alt="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License badge"}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
