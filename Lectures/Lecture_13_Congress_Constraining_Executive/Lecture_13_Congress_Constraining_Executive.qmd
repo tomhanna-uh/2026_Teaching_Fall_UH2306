@@ -1,15 +1,16 @@
 ---
-title: "Lecture 13: Congress – Constraining the Executive"
-subtitle: "GOVT2306: US and Texas Constitution and Politics"
+title: "Lecture 13: Congress Constraining the Executive"
+subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "October 5 / 6, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
   docx:
     toc: true
@@ -18,8 +19,225 @@ format:
     toc: true
 ---
 
-# Congress – Constraining the Executive
+## Today
 
-## Placeholder
+- The institutional "how" after republic vs democracy
+- King as lawgiver, enforcer, and judge
+- Article I as the break
+- Tax, war, purse, impeachment, advice and consent
 
-Content to be developed (Winston-style shared core).
+# Why This Matters
+
+## Why This Matters
+
+::: {.custom-style style="font-size: 44px;"}
+By the end of today you will explain how Article I turns Congress into the institutional check on the executive, why the tax power continues the long struggle to take the purse from kings, and how powers such as declaring war that still belonged to George III in 1789 were assigned to Congress instead.
+:::
+
+# The problem
+
+## Fused power
+
+::: {.custom-style style="font-size: 48px;"}
+The king as lawgiver, enforcer, and judge
+:::
+
+## King as three roles
+
+![King as fused lawgiver, enforcer, and judge](../../assets/king_roles.jfif){fig-alt="Educational diagram of a king combining the roles of lawgiver, enforcer, and judge" width="85%"}
+
+## Parliament pushes back
+
+![Charles West Cope painting of the Five Members episode](../../assets/five_members.jpg){fig-alt="Historical painting of the Five Members episode illustrating conflict between king and Parliament" width="80%"}
+
+# The break
+
+## Congress breaks the fusion
+
+![Congress separates lawmaking from enforcement and judging](../../assets/congress_breaks.jfif){fig-alt="Diagram contrasting fused royal power with separated Congress, executive, and courts" width="90%"}
+
+## Article I, Section 1
+
+::: {.custom-style style="font-size: 46px;"}
+"All legislative Powers herein granted shall be vested in a Congress of the United States"
+:::
+
+# The long tax path
+
+## From charter to Constitution
+
+![Tax power timeline from Magna Carta to Article I](../../assets/tax_timeline.jfif){fig-alt="Horizontal timeline of the struggle over taxation from Magna Carta through 1689 to U.S. Article I" width="92%"}
+
+## Magna Carta and consent
+
+Extraordinary levies require consent — early limit on royal taking.
+
+## Petition of Right (1628)
+
+No forced loans; no non-Parliamentary taxation.
+
+## Ship Money
+
+The crown tests the limit; the conflict hardens the principle.
+
+## Bill of Rights 1689
+
+![English Bill of Rights 1689](../../assets/english_bill.jfif){fig-alt="Image related to the English Bill of Rights of 1689" width="70%"}
+
+::: {.custom-style style="font-size: 42px;"}
+Levying money for or to the use of the Crown by pretence of prerogative, without grant of Parliament … is illegal
+:::
+
+## Article I completes the transfer
+
+- Power to tax: **Congress**
+- Revenue bills: **originate in the House**
+- No money from the Treasury except by **appropriations made by law**
+
+# The purse
+
+## Ship without water
+
+![Power of the purse constraining the executive](../../assets/the_purse.jfif){fig-alt="Illustration of executive power constrained without congressional appropriations" width="85%"}
+
+## Power of the purse
+
+::: {.custom-style style="font-size: 46px;"}
+Declare all you want — without supply, the machine does not run
+:::
+
+# War power: a major break
+
+## Britain, 1789
+
+Crown prerogative: declare war and peace.
+
+Parliament still holds the purse.
+
+## United States Constitution
+
+![1789 war power contrast Britain versus United States](../../assets/1789_war.jfif){fig-alt="Side-by-side comparison of British royal war prerogative in 1789 and U.S. congressional power to declare war" width="92%"}
+
+## Article I assigns to Congress
+
+- Declare war
+- Raise and support armies (**no appropriation longer than two years**)
+- Provide and maintain a navy
+- Letters of marque and reprisal
+
+## Understanding at the Founding
+
+::: {.custom-style style="font-size: 46px;"}
+A deliberate break from royal prerogative — modern war-powers disputes come later
+:::
+
+# Other constraints
+
+## Impeachment
+
+- House: sole power of impeachment
+- Senate: sole power to try impeachments
+
+Removal is the ultimate personal check on the executive.
+
+## Advice and consent
+
+Senate role in:
+
+- Officers of the United States
+- Treaties
+
+The executive proposes; the Senate can block.
+
+## Article I constraint map
+
+![Map of Article I constraints on the executive](../../assets/articlei_constraint.jfif){fig-alt="Icon diagram of Article I constraints including tax, appropriations, war, armies, impeachment, and advice and consent" width="90%"}
+
+# Texas note
+
+## Parallel idea
+
+The Texas Legislature also holds the **purse** and can constrain the **plural executive** — same logic, different structure (we return to Texas institutions later).
+
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Congress constraining the executive
+
+The older model fused lawmaking, enforcement, and judging in the king. Article I breaks that fusion by vesting legislative power in Congress. The tax power continues a long English struggle: Magna Carta (consent to extraordinary levies), Petition of Right 1628 (no forced loans / non-Parliamentary taxes), Ship Money conflict, Bill of Rights 1689 (no levying money by prerogative without Parliament), then U.S. Article I (Congress taxes; revenue bills originate in the House; no money from the Treasury except by appropriation). The purse is the practical constraint: without supply the executive cannot run. In Britain in 1789 the crown still held the formal prerogative to declare war; the U.S. Constitution assigns declare war, raise armies (two-year appropriation limit), maintain a navy, and letters of marque to Congress — a major break from royal prerogative. Other constraints include impeachment (House impeaches, Senate tries) and Senate advice and consent for officers and treaties. Modern war-powers practice is a later lecture; this day is the Founding design.
+
+## Top Hat questions
+
+**Vesting — MC:** Article I, Section 1 vests legislative powers in:  
+A) The President  
+B) The Supreme Court  
+C) Congress  
+D) The states alone  
+*Answer: C*
+
+**Tax path — T/F:** The English Bill of Rights 1689 declared levying money by royal prerogative without Parliament illegal.  
+*Answer: True*
+
+**Revenue — MC:** Under the U.S. Constitution, bills for raising revenue must originate in:  
+A) The Senate  
+B) The House  
+C) The White House  
+D) The Treasury Department  
+*Answer: B*
+
+**War 1789 — MC:** In Britain in 1789, formal power to declare war rested primarily with:  
+A) The House of Commons alone  
+B) The crown (royal prerogative)  
+C) Local sheriffs  
+D) The Bank of England  
+*Answer: B*
+
+**War U.S. — T/F:** The U.S. Constitution assigns the power to declare war to Congress.  
+*Answer: True*
+
+**Armies — MC:** Appropriations to raise and support armies may not be for longer than:  
+A) Six months  
+B) One year  
+C) Two years  
+D) Ten years  
+*Answer: C*
+
+**Impeachment — MC:** The sole power of impeachment belongs to:  
+A) The Senate  
+B) The House  
+C) The Supreme Court  
+D) State legislatures  
+*Answer: B*
+
+**Advice and consent — T/F:** The Senate's advice and consent role includes officers of the United States and treaties.  
+*Answer: True*
+
+**Synthesis — Likert:** How strongly do you agree: "The power of the purse is the most important practical constraint on the executive."  
+1 = Strongly disagree … 5 = Strongly agree
+
+---
+
+# Next
+
+## This week and next
+
+- **Module 2 due October 9**
+- **Midterm: October 12–17 in CASA** (signup opens two weeks before October 12)
+- Class **Monday / Tuesday**; **no class Wednesday / Thursday** (midterm window)
+
+## After the midterm
+
+Limiting Congress — constraints on the legislature itself
+
+## Authorship and License
+
+Do not submit to Quizlet, Chegg, Coursehero, or similar commercial sites.
+
+| | |
+|:---|:---|
+| **Author** | Tom Hanna |
+| **Website** | [tomhanna.me](https://tom-hanna.org/) |
+| **License** | [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/) |
+
+[![Creative Commons License](../../assets/creative_commons_license.png){fig-alt="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License badge"}](http://creativecommons.org/licenses/by-nc-sa/4.0/)
