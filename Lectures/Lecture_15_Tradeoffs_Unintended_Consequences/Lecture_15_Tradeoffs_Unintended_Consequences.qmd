@@ -6,6 +6,7 @@ date: "Fall 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
