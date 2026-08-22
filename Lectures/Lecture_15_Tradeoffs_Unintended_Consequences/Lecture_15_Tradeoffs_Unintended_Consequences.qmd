@@ -20,6 +20,158 @@ format:
 
 # Trade-offs and Unintended Consequences
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to recognize trade-offs and unintended consequences in public policy and begin to understand why they matter.
+:::
+
+## Where this fits
+
+We limit government because:
+
+- It is organized coercive force
+- Even good people are not omniscient
+
+Today: the knowledge problem and the trade-offs that follow
+
+## If men were angels
+
+::: {.custom-style style="font-size: 1.5em;"}
+"If men were angels, no government would be necessary."  
+— Federalist 10 (Madison)
+:::
+
+## Even if they were angels
+
+Good intentions and incorruptibility are not enough.
+
+Why?
+
+## The knowledge problem
+
+![Knowledge problem: central planner versus dispersed local knowledge](../../assets/knowledge_problem_local.jfif){fig-alt="Diagram showing a single central planner with incomplete information versus many local actors each holding partial knowledge"}
+
+## Trade-offs are everywhere
+
+Personal life first.
+
+You have $3.  
+Candy bar or soda?
+
+## Every choice has a cost
+
+- Time
+- Money
+- Attention
+- Opportunity
+
+## Government faces the same reality
+
+Collective choices still involve trade-offs.
+
+The tool is still coercive force.
+
+## Benefit versus enforcement cost
+
+The stated goal is only one side of the ledger.
+
+## John Hancock
+
+![John Hancock, smuggler who signed the Declaration](../../assets/hancock.jpg){fig-alt="Portrait of John Hancock"}
+
+Smuggler evading British taxes.
+
+## Eric Garner
+
+![Eric Garner](../../assets/garner.jpg){fig-alt="Photograph of Eric Garner"}
+
+Killed while selling loose cigarettes to evade high New York taxes.
+
+## Human costs of enforcement
+
+Force is never free.
+
+## Unintended consequences
+
+Results that were not intended or foreseen.
+
+They are a form of trade-off.
+
+## The cobra effect
+
+![Classic cobra-effect illustration of a bounty creating more of the problem](../../assets/cobra_effect.jfif){fig-alt="Historical illustration of a government bounty on cobras that led to people breeding cobras"}
+
+## Sin taxes and black markets
+
+![Black-market creation and enforcement costs](../../assets/black_market_enforcement.jfif){fig-alt="Conceptual image of a black-market exchange under high sin taxes"}
+
+## Other classic cases
+
+- DDT ban → malaria resurgence
+- Three-strikes and capital punishment for non-homicide crimes → incentive to eliminate witnesses
+
+## Sometimes unintended consequences are better
+
+::: {.custom-style style="font-size: 1.5em;"}
+Sometimes unintended consequences are better than the intended consequences.
+:::
+
+## Texas secession vote, 1861
+
+Texans voted to secede in order to protect slavery.
+
+## An unintended result
+
+The war that followed produced the Emancipation of the slaves in Texas (and the United States).
+
+## Economic trade-offs
+
+Tax rates versus revenue and growth.
+
+## The Laffer Curve
+
+![Laffer Curve](../../assets/laffer.jpg){fig-alt="Simple Laffer Curve showing tax rate versus revenue"}
+
+## Inequality and growth — the math
+
+![Mathematical illustration of how proportional growth increases measured gaps while raising absolute incomes](../../assets/inequality_growth_math.jfif){fig-alt="Side-by-side bars showing starting incomes of $10 and $20, then tripled incomes of $30 and $60, with the gap tripling while both sides are better off"}
+
+## Short-term versus long-term
+
+![Seesaw or balance of short-term gains versus long-term consequences](../../assets/short_term_long_term.jfif){fig-alt="Visual metaphor of a balance scale or seesaw contrasting immediate benefits with longer-term costs or gains"}
+
+## Concentrated benefits, diffuse costs
+
+![Small group gains large benefits while a large group pays small costs](../../assets/concentrated_benefits_diffuse_costs.jfif){fig-alt="Diagram of concentrated benefits for a few versus diffuse costs for many"}
+
+## The cascade of regulation
+
+![Spiral or cascade of regulations compounding unintended consequences](../../assets/road_to_serfdom_spiral.jfif){fig-alt="Descending spiral of successive regulations each attempting to fix the problems created by the previous ones"}
+
+## Recap
+
+- Even good people face a knowledge problem
+- Every policy involves trade-offs
+- Unintended consequences are part of those trade-offs
+- Enforcement itself carries human costs
+- We limit government for these reasons as well
+
+## Top Hat
+
+- T/F and multiple-choice items on the knowledge problem, trade-offs, and unintended consequences
+- Likert: “When evaluating a new policy I should focus mainly on the problem it claims to solve.”
+- Short text-bank prompts available for AI question generation if needed
+
+## Next
+
+The Executive — Defender and Despoiler of Rights
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)  
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)
