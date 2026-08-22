@@ -73,10 +73,11 @@ US and Texas Constitution and Politics
 **Module 0 is due September 9, 2026 (Official Reporting Day)**
 
 - Absolute hard deadline — avoid being dropped
-- Includes: syllabus/intro quizzes, textbook access (CTAP / We the People + Governing Texas), **Top Hat registration**, Inquizitives setup
+- Includes: syllabus/intro quizzes, textbook access (CTAP / We the People + Governing Texas), **Top Hat registration**, Inquizitives setup and completing Chapter 1
 - Instructions are in Module 0 on Canvas
 
-Register Top Hat **through the Canvas course link** (not by searching the web first).
+Register Top Hat **through the Canvas course link in the left hand navigation bar** (not by searching the web first).
+Register the textbook **through the Chapter 1 assignment link** in Module 0
 
 ---
 
@@ -183,12 +184,12 @@ I cannot fix platform, billing, or device problems for 1,000+ students. Use the 
 ## Communication
 
 - Preferred mode: **face-to-face** (class and office hours)
-- With ~1,000 students across four sections, email need is minimal
-- Class cancellations: Canvas Announcements and official email
-- Other announcements: Canvas (during class time when possible)
-- **Do not email** excuses, grade questions, makeup or extension requests
+- With ~1,000 students across 4 sections, email is not practical
+- Class cancellations: Canvas Announcements & official email
+- Other: Canvas Announcements posted during class time
+- **Do not email** excuses, grade questions, exceptions requests
 - You may ask about policies in office hours; the answer on exceptions is still **no**
-- Emails not from `@cougarnet.uh.edu` or `@uh.edu` are ignored (privacy)
+
 
 ## Grades (overview)
 
@@ -217,7 +218,7 @@ The system is built so late work and makeups run without special deals. Asking f
 - Not a separate graded category
 - Top Hat is how presence is recorded for in-class points
 - Small attendance bonus (see syllabus) if you miss no more than one class
-- You must get Top Hat working on your device (Top Hat support if needed)
+- You must get Top Hat working on your device (Top Hat support if needed) **this week**
 
 ## Academic integrity
 
