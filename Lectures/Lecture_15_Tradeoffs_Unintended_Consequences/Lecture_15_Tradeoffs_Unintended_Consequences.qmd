@@ -45,7 +45,9 @@ Today: the knowledge problem and the trade-offs that follow
 
 ## Even if they were angels
 
+::: {.custom-style style="font-size: 1.6em;"}
 Good intentions and incorruptibility are not enough.
+:::
 
 Why?
 
@@ -55,7 +57,9 @@ Why?
 
 ## Trade-offs are everywhere
 
+::: {.custom-style style="font-size: 1.5em;"}
 Personal life first.
+:::
 
 You have $3.  
 Candy bar or soda?
@@ -74,7 +78,9 @@ Candy bar or soda?
 
 ## Benefit versus enforcement cost
 
+::: {.custom-style style="font-size: 1.6em;"}
 The stated goal is only one side of the ledger.
+:::
 
 ## John Hancock
 
@@ -90,11 +96,15 @@ Killed while selling loose cigarettes to evade high New York taxes.
 
 ## Human costs of enforcement
 
+::: {.custom-style style="font-size: 1.7em;"}
 Force is never free.
+:::
 
 ## Unintended consequences
 
+::: {.custom-style style="font-size: 1.5em;"}
 Results that were not intended or foreseen.
+:::
 
 They are a form of trade-off.
 
@@ -119,15 +129,21 @@ Sometimes unintended consequences are better than the intended consequences.
 
 ## Texas secession vote, 1861
 
+::: {.custom-style style="font-size: 1.5em;"}
 Texans voted to secede in order to protect slavery.
+:::
 
 ## An unintended result
 
+::: {.custom-style style="font-size: 1.5em;"}
 The war that followed produced the Emancipation of the slaves in Texas (and the United States).
+:::
 
 ## Economic trade-offs
 
+::: {.custom-style style="font-size: 1.6em;"}
 Tax rates versus revenue and growth.
+:::
 
 ## The Laffer Curve
 
@@ -165,7 +181,9 @@ Tax rates versus revenue and growth.
 
 ## Next
 
+::: {.custom-style style="font-size: 1.5em;"}
 The Executive — Defender and Despoiler of Rights
+:::
 
 ## Authorship and License
 
