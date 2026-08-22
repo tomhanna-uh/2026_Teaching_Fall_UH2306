@@ -2,7 +2,7 @@
 title: "Lecture 15: Trade-offs and Unintended Consequences"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "October 19 / 20, 2026"
 format:
   revealjs:
     self-contained: true
@@ -184,6 +184,12 @@ Tax rates versus revenue and growth.
 ::: {.custom-style style="font-size: 1.5em;"}
 The Executive — Defender and Despoiler of Rights
 :::
+
+## Reminders
+
+- **Module 3 due November 6**
+- Midterm window (October 12–17) is closed
+- Next class: Executive lecture (October 21 / 22)
 
 ## Authorship and License
 
