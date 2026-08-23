@@ -4,19 +4,16 @@ subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
 date: October 5, 2026
 format:
-  docx:
+  pptx: 
+    reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
     toc: true
+    toc-depth: 1
     number-sections: true
-  revealjs:
-    self-contained: true
-    incremental: true
-    transition: convex
-    theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.png
-    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
-  pptx: {}
-  html:
-    toc: true
+    fig-width: 5.5
+    fig-height: 4
+    fig-caption: true
+    fontsize: 12pt
+    geometry: margin=1in
 ---
 
 ## Today
@@ -232,7 +229,68 @@ Bad information fuels permanent crisis and reckless uses of coercive power — o
 Usually private. Show the correction. Do not perform the dunk.
 :::
 
+---
 
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Misinformation
+
+Misinformation is false or misleading information shared unknowingly; disinformation is false or misleading information purposely created and distributed. Availability bias and motivated reasoning help explain why vivid, side-fitting claims spread faster than corrections. Left-coded defense-budget memes often treat the discretionary budget (roughly a quarter of federal spending) as if it were the whole budget; a claim that "55% goes to defense" on that base is closer to ~15% of the total federal budget and a smaller share of all government spending once state and local outlays are included. Misleading numbers still harm advocates who want different priorities, because credibility loss and distraction from real trade-offs undercut persuasion. Right-coded examples include a fabricated quote attributing to Rep. Ocasio-Cortez the claim that gun ownership is not a constitutional right (debunked; the Second Amendment exists and she has affirmed belief in it while supporting restrictions), the false claim that "China pays" U.S. tariffs (U.S. importers pay duties; costs largely fall on U.S. buyers), and treating a trade deficit as simply "losing money" rather than as importing more goods than one exports (goods are received). Tools such as Ground News help compare left/center/right coverage; habits include pausing before sharing, checking whether a number is a slice or a total, verifying quotes against primary sources, and correcting friends privately when possible.
+
+## Top Hat questions
+
+**Definitions — MC:** Misinformation is best defined as:  
+A) Any opinion you dislike  
+B) False or misleading information shared unknowingly  
+C) Only state propaganda  
+D) Satire  
+*Answer: B*
+
+**Definitions — MC:** Disinformation is:  
+A) The same as a mistake  
+B) False or misleading information purposely created and distributed  
+C) Only foreign  
+D) Protected opinion  
+*Answer: B*
+
+**Budget — MC:** The viral "55% of the budget is defense" figure is calculated on which base?  
+A) Total federal spending  
+B) Discretionary federal spending  
+C) State and local only  
+D) GDP  
+*Answer: B*
+
+**Budget — MC:** If defense is ~55% of discretionary spending and discretionary is ~27% of the total federal budget, defense is about what share of the *total* federal budget?  
+A) 55%  
+B) 10%  
+C) 15%  
+D) 73%  
+*Answer: C*
+
+**Budget — MC:** How much of the total federal budget does the "55% defense" meme leave out of the denominator by using only discretionary spending?  
+A) About 10%  
+B) About 27%  
+C) About 73%  
+D) About 90%  
+*Answer: C*
+
+**AOC — T/F:** The viral quote that Ocasio-Cortez said gun ownership is not a right because it would be in the Constitution is fabricated.  
+*Answer: True*
+
+**Tariffs — T/F:** U.S. tariffs on Chinese goods are paid directly to the U.S. Treasury by the Chinese government.  
+*Answer: False*
+
+**Trade — MC:** A trade deficit primarily means:  
+A) The country lost cash with nothing in return  
+B) The country imported more goods and services than it exported  
+C) GDP fell  
+D) Tariffs failed  
+*Answer: B*
+
+**Habits — Likert:** How likely are you to pause and check a dramatic political meme before sharing?  
+1 = Not likely … 5 = Very likely
+
+---
 
 # Next
 

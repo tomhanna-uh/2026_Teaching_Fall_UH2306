@@ -4,19 +4,16 @@ subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
 date: October 5, 2026
 format:
-  revealjs:
-    self-contained: true
-    incremental: true
-    transition: convex
-    theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.png
-    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
-  docx:
+  pptx: 
+    reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
     toc: true
+    toc-depth: 1
     number-sections: true
-  pptx: {}
-  html:
-    toc: true
+    fig-width: 5.5
+    fig-height: 4
+    fig-caption: true
+    fontsize: 12pt
+    geometry: margin=1in
 ---
 
 ## Today
@@ -202,6 +199,64 @@ Deferring current income and spending for a better life later.
 
 Protection of broad-based property rights and expansion of democracy support broad-based prosperity.
 
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Republic vs Democracy
+
+Republics and democracies in the Western tradition arose largely as reactions to abusive executives — kings turned tyrant, modeled as stationary bandits who prey on production unless constrained. The project was protection of earned property against predation from above, not a war on earned wealth. Evolution was often top-down: upper classes first used councils and parliaments against kings; later towns and commoners gained representation. Democracy means rule by the people; republic (res publica) means the public thing — government as the people's common affair. "Republic = not monarchy" is partly a labeling accident. Aristotle warned that "democracy" could mean rule by the many for themselves (a corrupt form). Madison in Federalist 10 contrasted pure democracy (citizens assemble in person; works only when small; majority faction) with a republic (representation; can scale; filters faction). He did not oppose electing representatives; modern liberal democracy is closer to his republic. Republic and democracy converge when minority rights, including property, are protected. British parliamentary expansion ran from great barons (1215) to full women's suffrage (1928); the U.S. began broader in 1789 and reached full women's suffrage in 1920. Secure property rights support investment — including education — and broad-based real prosperity.
+
+## Top Hat questions
+
+**Definitions — MC:** *Res publica* most nearly means:  
+A) Rule by the army  
+B) The public thing / common public affair  
+C) Hereditary monarchy  
+D) Rule by the rich only  
+*Answer: B*
+
+**Definitions — MC:** Democracy, in basic etymology, means:  
+A) Rule by experts  
+B) Rule by the people  
+C) Absence of law  
+D) Empire  
+*Answer: B*
+
+**Olson — T/F:** The "stationary bandit" idea is that a settled ruler may protect production because it is a tax base.  
+*Answer: True*
+
+**Madison — MC:** In Federalist 10, Madison's pure democracy is characterized by:  
+A) Only hereditary offices  
+B) Citizens assembling and governing in person  
+C) A single emperor  
+D) No elections ever  
+*Answer: B*
+
+**Madison — T/F:** Madison opposed the election of representatives.  
+*Answer: False*
+
+**Aristotle — T/F:** Aristotle sometimes used "democracy" for a corrupt form in which the many rule for themselves.  
+*Answer: True*
+
+**Suffrage — MC:** Relative to medieval "great barons only," the U.S. founding electorate was:  
+A) Identical to barons only  
+B) Already much broader, then expanded further  
+C) Universal adult suffrage from day one  
+D) Limited to the army  
+*Answer: B*
+
+**Property — MC:** In this lecture's framing, education counts as:  
+A) Only consumption  
+B) An investment (deferring present income for future returns)  
+C) Unrelated to property rights  
+D) Only for the wealthy  
+*Answer: B*
+
+**Synthesis — Likert:** How strongly do you agree: "Republic and democracy are two sides of the same coin when minority rights including property are protected."  
+1 = Strongly disagree … 5 = Strongly agree
+
+---
 
 # Next
 

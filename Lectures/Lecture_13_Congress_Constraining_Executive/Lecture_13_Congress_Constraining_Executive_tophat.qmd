@@ -4,19 +4,16 @@ subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
 date: October 7, 2026
 format:
-  docx:
+  pptx: 
+    reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
     toc: true
+    toc-depth: 1
     number-sections: true
-  revealjs:
-    self-contained: true
-    incremental: true
-    transition: convex
-    theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.png
-    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
-  pptx: {}
-  html:
-    toc: true
+    fig-width: 5.5
+    fig-height: 4
+    fig-caption: true
+    fontsize: 12pt
+    geometry: margin=1in
 ---
 
 ## Today
@@ -159,6 +156,64 @@ The executive proposes; the Senate can block.
 
 The Texas Legislature also holds the **purse** and can constrain the **plural executive** — same logic, different structure (we return to Texas institutions later).
 
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Congress constraining the executive
+
+The older model fused lawmaking, enforcement, and judging in the king. Article I breaks that fusion by vesting legislative power in Congress. The tax power continues a long English struggle: Magna Carta (consent to extraordinary levies), Petition of Right 1628 (no forced loans / non-Parliamentary taxes), Ship Money conflict, Bill of Rights 1689 (no levying money by prerogative without Parliament), then U.S. Article I (Congress taxes; revenue bills originate in the House; no money from the Treasury except by appropriation). The purse is the practical constraint: without supply the executive cannot run. In Britain in 1789 the crown still held the formal prerogative to declare war; the U.S. Constitution assigns declare war, raise armies (two-year appropriation limit), maintain a navy, and letters of marque to Congress — a major break from royal prerogative. Other constraints include impeachment (House impeaches, Senate tries) and Senate advice and consent for officers and treaties. Modern war-powers practice is a later lecture; this day is the Founding design.
+
+## Top Hat questions
+
+**Vesting — MC:** Article I, Section 1 vests legislative powers in:  
+A) The President  
+B) The Supreme Court  
+C) Congress  
+D) The states alone  
+*Answer: C*
+
+**Tax path — T/F:** The English Bill of Rights 1689 declared levying money by royal prerogative without Parliament illegal.  
+*Answer: True*
+
+**Revenue — MC:** Under the U.S. Constitution, bills for raising revenue must originate in:  
+A) The Senate  
+B) The House  
+C) The White House  
+D) The Treasury Department  
+*Answer: B*
+
+**War 1789 — MC:** In Britain in 1789, formal power to declare war rested primarily with:  
+A) The House of Commons alone  
+B) The crown (royal prerogative)  
+C) Local sheriffs  
+D) The Bank of England  
+*Answer: B*
+
+**War U.S. — T/F:** The U.S. Constitution assigns the power to declare war to Congress.  
+*Answer: True*
+
+**Armies — MC:** Appropriations to raise and support armies may not be for longer than:  
+A) Six months  
+B) One year  
+C) Two years  
+D) Ten years  
+*Answer: C*
+
+**Impeachment — MC:** The sole power of impeachment belongs to:  
+A) The Senate  
+B) The House  
+C) The Supreme Court  
+D) State legislatures  
+*Answer: B*
+
+**Advice and consent — T/F:** The Senate's advice and consent role includes officers of the United States and treaties.  
+*Answer: True*
+
+**Synthesis — Likert:** How strongly do you agree: "The power of the purse is the most important practical constraint on the executive."  
+1 = Strongly disagree … 5 = Strongly agree
+
+---
 
 # Next
 
