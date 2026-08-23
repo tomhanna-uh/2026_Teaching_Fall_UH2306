@@ -2,18 +2,8 @@
 title: "Lecture 2: What is government? What is politics?"
 subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: August 26, 2026
+date: "August 26/27, 2026"
 format:
-  docx:
-    toc: true
-    number-sections: true
-  revealjs:
-    self-contained: true
-    incremental: true
-    transition: convex
-    theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.png
-    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: 
     reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
     toc: true
@@ -24,6 +14,16 @@ format:
     fig-caption: true
     fontsize: 12pt
     geometry: margin=1in
+  revealjs:
+    self-contained: true
+    incremental: true
+    transition: convex
+    theme: [default, ../../assets/custom.scss]
+    logo: ../../assets/logo.png
+    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
+  docx:
+    toc: true
+    number-sections: true
   html:
     toc: true
 ---
@@ -242,6 +242,45 @@ The State / government
 
 Making collective decisions in **the Coercive Sphere**
 
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Government vs other organizations
+
+Government is the organized coercive use of physical (violent) force that is commonly accepted as legitimate. That is what distinguishes it from family, churches, businesses, charities, and community groups, which rely mainly on voluntary compliance, social pressure, exit, or market incentives. Groups that use force without legitimacy (organized crime, vigilantes, terrorists) are not accepted as government. Politics is the process of making collective decisions inside that coercive sphere — not only campaigns and elections, and not only distant national headlines. Local roads, transit, campus rules, and public works are politics too.
+
+## Top Hat questions (auto-scored)
+
+**T/F:** Government is defined in this course as the organized coercive use of physical force that is commonly accepted as legitimate.  
+*Answer: True*
+
+**T/F:** Politics only happens in Washington, D.C., or Austin during election years.  
+*Answer: False*
+
+**Multiple choice:** Which element of the definition separates government from a criminal gang that also uses force?  
+A) Organized  
+B) Coercive  
+C) Physical force  
+D) Legitimacy (commonly accepted as rightful)  
+*Answer: D*
+
+**Multiple answer:** Which of the following are usually in the *voluntary* sphere?  
+A) A church congregation  
+B) The Houston police enforcing a city ordinance  
+C) A private business selling groceries  
+D) A charity food bank  
+*Answers: A, C, D*
+
+**Multiple choice:** What do family, church, market firms, and charities lack that government has?  
+A) Collective action  
+B) Rules  
+C) Organized coercive physical force treated as legitimate  
+D) Leaders  
+*Answer: C*
+
+**Likert (survey):** Before today, how often did you think of local services (roads, Metro, campus rules) as "politics"?  
+1 = Almost never … 5 = Almost always
 
 ---
 

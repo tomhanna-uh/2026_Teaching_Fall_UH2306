@@ -4,6 +4,9 @@ subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
 date: "September 30 / October 1, 2026"
 format:
+  docx:
+    toc: true
+    number-sections: true
   revealjs:
     self-contained: true
     incremental: true
@@ -12,9 +15,6 @@ format:
     logo: ../../assets/logo.png
     footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
   pptx: {}
-  docx:
-    toc: true
-    number-sections: true
   html:
     toc: true
 ---
