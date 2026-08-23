@@ -2,11 +2,18 @@
 title: "Lecture 4: Values of the Founding"
 subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: September 2 2026
+date: "September 2 / 3, 2026"
 format:
-  docx:
+  pptx: 
+    reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
     toc: true
+    toc-depth: 1
     number-sections: true
+    fig-width: 5.5
+    fig-height: 4
+    fig-caption: true
+    fontsize: 12pt
+    geometry: margin=1in
   revealjs:
     self-contained: true
     incremental: true
@@ -14,7 +21,9 @@ format:
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.png
     footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
-  pptx: {}
+  docx:
+    toc: true
+    number-sections: true
   html:
     toc: true
 ---
@@ -270,7 +279,57 @@ If you never signed it, are you bound by its terms?
 We return to that question — and to problems of the Founding — in a later lecture.
 :::
 
+---
 
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Founding values and limits
+
+Government is organized coercive force accepted as legitimate. Ethics of force plus that definition lead to Founding values aimed at living together peacefully as dignified equals. Classical liberalism (not modern party labels) emphasizes limiting government power, expanding participation, and allowing individuals and voluntary associations to flourish. Two modern restatements: (1) live together peacefully in a society of dignified equals (Coyne paraphrase); (2) empowering individuals to pursue their own fulfillment (highest purpose, not cheap thrills). Legitimate goals include life, liberty, pursuit of happiness, and property as product of labor. Limits on force form a spectrum from Thoreau (“governs not at all”) and non-aggression, through “governs least” and Krauthammer’s lowest possible organized violence, constitutional limits, and social-contract ideas (Hobbes, Locke, Rousseau), to theocracy and totalitarianism. Militant democracy and realpolitik are hard cases for placement on that spectrum. A later lecture returns to flaws of the Founding and whether a contract you never signed binds you.
+
+## Top Hat questions (auto-scored)
+
+**T/F:** Classical liberalism in this lecture means the same thing as “liberal” in today’s party politics.  
+*Answer: False*
+
+**Multiple choice:** A close paraphrase of Coyne’s modern restatement is that the major problem of government is to allow us to:  
+A) Maximize GDP only  
+B) Live together peacefully in a society of dignified equals  
+C) Win every election  
+D) Eliminate all disagreement  
+*Answer: B*
+
+**Multiple choice:** “Empowering individuals to pursue their own fulfillment” is presented as a modern restatement of:  
+A) Divine right of kings  
+B) Classical liberalism’s aim for individuals  
+C) Totalitarianism  
+D) Party platforms only  
+*Answer: B*
+
+**T/F:** Thoreau’s line in this lecture is that government is best which governs not at all.  
+*Answer: True*
+
+**Multiple choice:** Krauthammer’s mark of a civilized society is maintaining organized violence at:  
+A) The highest possible level  
+B) Whatever level wins elections  
+C) The lowest possible level  
+D) Zero only in wartime  
+*Answer: C*
+
+**Multiple answer:** Which appear as ends of the more expansive side of the spectrum in this lecture?  
+A) Theocracy  
+B) Totalitarianism  
+C) Thoreau’s “governs not at all”  
+D) Non-aggression principle only  
+*Answers: A, B*
+
+**Likert (survey / completion):** Where would you place *militant democracy* on the spectrum from most restrained to most expansive use of force?  
+1 = Most restrained … 5 = Most expansive
+
+**Likert (survey / completion):** Where would you place *realpolitik / pragmatic statecraft* on the same spectrum?  
+1 = Most restrained … 5 = Most expansive
+
+---
 
 # Next
 

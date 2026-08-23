@@ -2,21 +2,18 @@
 title: "Lecture 6: Constitutional Safeguards"
 subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "September 14 / 15, 2026"
+date: September 14, 2026
 format:
-  revealjs:
-    self-contained: true
-    incremental: true
-    transition: convex
-    theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.png
-    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
-  docx:
+  pptx: 
+    reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
     toc: true
+    toc-depth: 1
     number-sections: true
-  pptx: {}
-  html:
-    toc: true
+    fig-width: 5.5
+    fig-height: 4
+    fig-caption: true
+    fontsize: 12pt
+    geometry: margin=1in
 ---
 
 ## Today
@@ -191,7 +188,47 @@ Most ordinary crime · property · contracts · family · intrastate life
 Unless the Constitution grants it, it is not a federal power
 :::
 
+---
 
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Constitutional safeguards
+
+The Constitution is a system designed to allow beneficial uses of coercive power and limit abusive ones. Main structural tools: separation of powers, checks and balances, federalism, and later the Bill of Rights. Separation divides power among groups with different agendas; checks and balances mean competing interests constrain each other so no one dominates alone. Legislative makes law; executive executes; judicial interprets. Congress can impeach, override vetoes, and structure jurisdiction; the President can veto and pardon; courts exercise judicial review under the Constitution as supreme law (Article VI). Congress is itself split (House and Senate). The Senate was designed with state interests in mind. The Declaration spoke of free and independent States (plural). About sixteen polities were actually independent countries before joining the Union (thirteen originals plus Vermont, Texas, Hawaii); other states were acquired by purchase or war but still operate under the federalism bargain shaped by that history. Powers not delegated to the United States are reserved to the states or the people (Tenth Amendment). Most ordinary crime, property, contracts, family law, and intrastate life remain primarily state matters. Enumerated national powers are limited: unless the Constitution grants a power, it is not federal.
+
+## Top Hat questions (auto-scored)
+
+**T/F:** Separation of powers means one branch should hold all major powers for efficiency.  
+*Answer: False*
+
+**Multiple choice:** Judicial review is presented as the courts’ main check because:  
+A) Article III lists every check in detail  
+B) The Constitution is supreme law and courts interpret and apply it  
+C) Presidents appoint no judges  
+D) Congress cannot impeach  
+*Answer: B*
+
+**Multiple choice:** Which were independent countries before joining the United States (as framed in this lecture)?  
+A) Only the original thirteen  
+B) Thirteen originals plus Vermont, Texas, and Hawaii  
+C) Every current state  
+D) Only Texas  
+*Answer: B*
+
+**T/F:** The Tenth Amendment reserves undelegated powers to the states or the people.  
+*Answer: True*
+
+**Multiple answer:** Which are examples of primarily state (reserved) domains in this lecture?  
+A) Most ordinary crime  
+B) Intrastate contracts and property  
+C) Declaring war  
+D) Family law  
+*Answers: A, B, D*
+
+**Likert (survey / completion):** Which structural safeguard do you personally trust most to limit abuse of power?  
+1 = Separation of powers  2 = Checks and balances  3 = Federalism  4 = Bill of Rights (preview)  5 = Unsure
+
+---
 
 # Next
 
