@@ -2,10 +2,11 @@
 title: "Lecture 17: Federal Reserve and Independent Agencies"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "October 26 / 27, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -20,6 +21,164 @@ format:
 
 # Federal Reserve and Independent Agencies
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to explain why some government power is insulated from short-term politics, and what trade-offs that insulation creates.
+:::
+
+## Where this fits
+
+The executive implements policy.
+
+Some implementation is deliberately placed **outside** ordinary presidential control.
+
+## Cold open
+
+Watch: Sloan Sabbith on the debt ceiling (*The Newsroom*).
+
+[Primary clip](https://www.youtube.com/watch?v=Gj5-G01iRyk)
+
+Then a short real clip: Jamie Dimon on default as a “moral disaster.”
+
+## What the fight is really about
+
+::: {.custom-style style="font-size: 1.6em;"}
+Full faith and credit is a public good. Brinkmanship taxes it.
+:::
+
+## Institutions first
+
+Douglass North: credible commitment is a development technology.
+
+Governments that reliably pay their debts make long-term investment rational.
+
+## Bank of England, 1694
+
+After the Glorious Revolution, a government that could be trusted to pay borrowed more cheaply.
+
+That is an institution, not a slogan.
+
+## Trade-off in one line
+
+::: {.custom-style style="font-size: 1.6em;"}
+Using the ceiling as leverage is meant to force discipline. The debate itself raises borrowing costs.
+:::
+
+## Better Angels reminder
+
+::: {.custom-style style="font-size: 1.5em;"}
+Rule of law, secure property, and predictable public finance underwrite long-run peace and prosperity.
+:::
+
+They are not optional scenery.
+
+## Why a Federal Reserve
+
+Lender of last resort after repeated panics.
+
+Elastic currency.
+
+A bank for the government that is not simply the President’s checking account.
+
+## Dual mandate
+
+::: {.custom-style style="font-size: 1.7em;"}
+Maximum employment and stable prices.
+:::
+
+## Independence — the design
+
+Congress sets the goals.
+
+The Fed chooses day-to-day means.
+
+Governors: 14-year staggered terms.
+
+## Independent *within* government
+
+::: {.custom-style style="font-size: 1.6em;"}
+Not a fourth branch. Created by Congress. Oversight remains.
+:::
+
+## Same logic as courts
+
+Insulate some decisions from the next election.
+
+Different tools: 14-year terms, not life tenure.
+
+## Grain of truth
+
+- Regional banks and member-bank stock exist
+- Jekyll Island was secretive
+- Policy mistakes are real
+
+## Then the rest
+
+::: {.custom-style style="font-size: 1.6em;"}
+None of that equals a private family owning the money supply.
+:::
+
+## Where the profits go
+
+::: {.custom-style style="font-size: 1.6em;"}
+Excess earnings are remitted to the U.S. Treasury.
+:::
+
+## Already audited
+
+Annual external audits.
+
+Weekly balance sheet.
+
+Testimony and a Monetary Policy Report to Congress.
+
+## Independent agencies more generally
+
+The Fed is the vivid case of a broader American pattern: some tasks are hard to do well if every decision is a campaign issue.
+
+## Texas note
+
+Texas also uses specialized commissions rather than one statewide executive for some high-stakes economic regulation.
+
+The Railroad Commission is the local illustration of insulated economic administration — not a second Fed.
+
+## The standing trade-off
+
+Insulation can protect long-term goods.
+
+Insulation can also hide mistakes and weaken democratic control.
+
+## Recap
+
+- Credible commitment is an institution, not a slogan
+- The Fed is a designed hybrid: public goals, insulated means
+- Conspiracy stories usually start from a grain of truth and then skip the statute
+- Independence is a trade-off, not a magic shield
+
+## Top Hat
+
+- T/F: Excess earnings of the Federal Reserve are remitted to the U.S. Treasury.
+- MC: The Fed’s dual mandate is best summarized as:
+- T/F: The Federal Reserve is a purely private bank owned by foreign families.
+- Likert: “Interest rates should be set directly by elected officials.”
+
+## Next
+
+::: {.custom-style style="font-size: 1.6em;"}
+War Powers and foreign policy
+:::
+
+## Reminders
+
+- **Module 3 due November 6**
+- Next class: War Powers (October 28 / 29)
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)

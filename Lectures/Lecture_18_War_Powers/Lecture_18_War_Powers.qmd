@@ -2,10 +2,11 @@
 title: "Lecture 18: War Powers and Foreign Policy"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "October 28 / 29, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -20,6 +21,127 @@ format:
 
 # War Powers and Foreign Policy
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to explain the 1789 break on war power, how later practice shifted toward the executive, and why Congress rarely takes the power back.
+:::
+
+## Where this fits
+
+::: {.custom-style style="font-size: 1.6em;"}
+Concentrated force is most concentrated in war.
+:::
+
+That is why the Founders tried to split the decision from the command.
+
+## The 1789 break
+
+![1789 war power: Britain versus the United States](../../assets/1789_war.jfif){fig-alt="Contrast of British royal war prerogative in 1789 with U.S. congressional power to declare war" width="90%"}
+
+## Article I
+
+Congress:
+
+- Declares war
+- Raises and supports armies
+- No army appropriation longer than two years
+- Maintains a navy
+- Issues letters of marque and reprisal
+
+## Article II
+
+::: {.custom-style style="font-size: 1.7em;"}
+The President is Commander in Chief.
+:::
+
+## The intended split
+
+::: {.custom-style style="font-size: 1.6em;"}
+Congress decides whether the nation is at war. The President conducts the war Congress has authorized.
+:::
+
+## The purse again
+
+![Power of the purse](../../assets/the_purse.jfif){fig-alt="Purse constraint on executive military action" width="75%"}
+
+No money, no war machine.
+
+## What changed
+
+Declarations became rare.
+
+Authorizations, resolutions, and “hostilities” short of declared war became the working law.
+
+## War Powers Resolution, 1973
+
+Attempt at “collective judgment” after Vietnam.
+
+48-hour report. 60-day clock. Consultation.
+
+## The standing fight
+
+::: {.custom-style style="font-size: 1.6em;"}
+What counts as “hostilities”? Who gets to decide that word?
+:::
+
+## Pattern, not party
+
+::: {.custom-style style="font-size: 1.6em;"}
+Both parties expand the office when they hold it.
+:::
+
+Congress complains, funds the operation, and rarely forces a clean stop.
+
+## Case pattern: capture operations
+
+Panama, 1989: Noriega.
+
+Venezuela, January 2026: Maduro.
+
+Law-enforcement goal + military means.
+
+## Case pattern: the clock
+
+Iran, February 2026– : strikes, reports, ceasefire claims, concurrent resolutions.
+
+The 60-day clock is a political deadline more than an off-switch.
+
+## Courts
+
+War-powers disputes are often treated as political questions.
+
+The fight stays in Congress and in elections.
+
+## Recap
+
+- 1789: declare war is a legislative power
+- Command is executive
+- Modern practice stretched “hostilities”
+- Tools exist; political will is the scarce resource
+
+## Top Hat
+
+- T/F: In 1789, the power to declare war was given to Congress, not the President.
+- MC: The War Powers Resolution’s 60-day clock is best described as:
+- Likert: “Capture operations against a foreign head of state should count as hostilities under the War Powers Resolution.”
+
+## Next
+
+::: {.custom-style style="font-size: 1.6em;"}
+Constitution making — constitutional politics versus ordinary politics
+:::
+
+## Reminders
+
+- **Module 3 due November 6**
+- Next class: Constitution Making (November 2 / 3)
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)
