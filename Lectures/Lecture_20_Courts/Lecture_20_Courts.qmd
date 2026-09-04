@@ -1,11 +1,12 @@
 ---
-title: "Lecture 20: The Courts – Defender of the System"
+title: "Lecture 20: The Courts — Defender of the System"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "November 4 / 5, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -18,8 +19,108 @@ format:
     toc: true
 ---
 
-# The Courts – Defender of the System
+# The Courts
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to explain why a democracy needs a countermajoritarian court and how judicial review is supposed to defend the constitutional consensus rather than replace ordinary politics.
+:::
+
+## Where this fits
+
+Losers need two things:
+
+- A real chance to win later
+- Rights that survive an electoral loss
+
+Courts are built for the second.
+
+## Why majorities are not enough
+
+![Madison on democracy and republics](../../assets/madison_democracy.jfif){fig-alt="Madison contrast of pure democracy and republic" width="80%"}
+
+## Countermajoritarian on purpose
+
+::: {.custom-style style="font-size: 1.6em;"}
+Life tenure and salary protection exist so judges can disappoint the current majority.
+:::
+
+## Two jobs
+
+Constrain the executive and the legislature.
+
+Defend the constitutional consensus.
+
+## Constrain the other branches
+
+![Checks among the branches](../../assets/checks_arrows.jpg){fig-alt="Diagram of checks and balances among branches" width="75%"}
+
+## Defend the consensus
+
+::: {.custom-style style="font-size: 1.6em;"}
+Enumerated powers, reserved rights, and due process are supposed to outlast the last election.
+:::
+
+## Least dangerous?
+
+::: {.custom-style style="font-size: 1.5em;"}
+Hamilton, Federalist 78: the judiciary has “neither force nor will, but merely judgment.”
+:::
+
+## Judicial review
+
+Courts may hold acts of Congress or the executive unconstitutional.
+
+Previewed when we limited Congress. Cases come next.
+
+## Not a second legislature
+
+::: {.custom-style style="font-size: 1.6em;"}
+The point is to keep ordinary politics inside the rules — not to run ordinary politics from the bench.
+:::
+
+## The legitimacy cost
+
+Independence is the tool.
+
+The cost: judges are not elected.
+
+## Texas note — dual high courts
+
+![Texas dual high courts](../../assets/dual_courts.jfif){fig-alt="Diagram of Texas dual high courts, Supreme Court and Court of Criminal Appeals" width="80%"}
+
+Texas splits civil and criminal courts of last resort. Same independence logic, different map.
+
+## Recap
+
+- Democracies need a place where the current majority can lose
+- Courts constrain force used by the other branches
+- They also defend the prior constitutional settlement
+- Major cases come next
+
+## Top Hat
+
+- T/F: Article III life tenure is designed so judges can rule against the current majority.
+- MC: Judicial review is supposed to:
+- Likert: “Unelected judges have too much power over ordinary policy.”
+
+## Next
+
+::: {.custom-style style="font-size: 1.6em;"}
+Major court cases and Bill of Rights Part 2
+:::
+
+## Reminders
+
+- **Module 3 due November 6**
+- Next class: Major Court Cases (November 9 / 10)
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)

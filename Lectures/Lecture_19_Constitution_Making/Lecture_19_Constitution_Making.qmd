@@ -2,10 +2,11 @@
 title: "Lecture 19: Constitution Making"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "November 2 / 3, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -20,6 +21,127 @@ format:
 
 # Constitution Making
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to distinguish constitutional politics from ordinary politics and recognize why some American decisions require more than a simple majority.
+:::
+
+## Where this fits
+
+Parts 1–3 explained why we limit government.
+
+Part 4: how losers still have a stake in the system.
+
+## Two kinds of politics
+
+::: {.custom-style style="font-size: 1.7em;"}
+Constitutional politics sets the rules. Ordinary politics plays inside them.
+:::
+
+## Constitutional politics
+
+Near-consensus.
+
+Hard to change.
+
+About the structure of power and the rights that majorities may not touch.
+
+## Ordinary politics
+
+Usually simple majorities.
+
+Taxes, spending, appointments, ordinary statutes.
+
+Winners and losers rotate.
+
+## Why the distinction matters
+
+::: {.custom-style style="font-size: 1.6em;"}
+If every election can rewrite the rules, the minority has no reason to stay in the game.
+:::
+
+## American ordinary politics is not always 50% + 1
+
+Electoral College.
+
+Senate representation.
+
+Supermajorities for some acts.
+
+Presentment and veto.
+
+## Electoral College
+
+::: {.custom-style style="font-size: 1.6em;"}
+Presidents are chosen by states as states, not by a single national pool.
+:::
+
+That is a constitutional rule, not a glitch in ordinary voting.
+
+## Supermajorities
+
+Treaties: two-thirds of the Senate.
+
+Impeachment conviction: two-thirds of the Senate.
+
+Veto override: two-thirds of both houses.
+
+## Amendments are constitutional politics
+
+![Amendment and contract timeline](../../assets/contract_timeline.jfif){fig-alt="Timeline visual related to constitutional change and the unfinished contract" width="80%"}
+
+Two-thirds of both houses, three-fourths of the states.
+
+## Texas note — easier to amend
+
+The Texas Constitution is long because Texans put ordinary policy into constitutional text.
+
+Easier amendment is a different trade-off: more popular control, less settlement.
+
+## Extra-constitutional institutions
+
+::: {.custom-style style="font-size: 1.6em;"}
+Some of the hardest brakes are not in the Constitution’s text.
+:::
+
+## The filibuster
+
+A Senate practice, not a clause.
+
+It raises the cost of ordinary legislation.
+
+It can be changed by the Senate itself.
+
+## Recap
+
+- Rules-of-the-game politics is supposed to be harder than ordinary politics
+- The minority needs a future path to victory and rights after a loss
+- Some American “ordinary” institutions already require more than a bare majority
+- The filibuster is powerful and optional
+
+## Top Hat
+
+- T/F: Constitutional politics is supposed to be harder to change than ordinary statutes.
+- MC: The Electoral College is best classified as:
+- Likert: “The Senate filibuster should be treated as if it were part of the written Constitution.”
+
+## Next
+
+::: {.custom-style style="font-size: 1.6em;"}
+The Courts — defender of the system
+:::
+
+## Reminders
+
+- **Module 3 due November 6**
+- Next class: The Courts (November 4 / 5)
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)
