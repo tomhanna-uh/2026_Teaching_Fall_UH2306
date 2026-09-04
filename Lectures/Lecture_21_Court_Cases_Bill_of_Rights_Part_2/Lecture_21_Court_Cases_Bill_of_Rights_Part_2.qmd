@@ -2,10 +2,11 @@
 title: "Lecture 21: Major Court Cases and Bill of Rights Part 2"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "November 9 / 10, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -18,8 +19,124 @@ format:
     toc: true
 ---
 
-# Major Court Cases and Bill of Rights Part 2
+# Court Cases and Bill of Rights Part 2
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to explain incorporation, the core criminal-procedure cases, and how speech and civil-rights landmarks defend a prior consensus against a current majority.
+:::
+
+## Where this fits
+
+Last week: why a democracy needs a countermajoritarian court.
+
+Today: the cases that make that real.
+
+## Remember Barron
+
+::: {.custom-style style="font-size: 1.6em;"}
+In 1833 the Bill of Rights bound the federal government, not the states.
+:::
+
+## Then the 14th Amendment
+
+::: {.custom-style style="font-size: 1.5em;"}
+Due process and equal protection gave the Court a door to apply most of those rights to the states.
+:::
+
+## Incorporation is not a slogan
+
+Most of the Bill of Rights now binds the states.
+
+Not all of it. Not all at once.
+
+## Mapp v. Ohio (1961)
+
+::: {.custom-style style="font-size: 1.6em;"}
+Illegally seized evidence is out of a state prosecution.
+:::
+
+## Gideon v. Wainwright (1963)
+
+::: {.custom-style style="font-size: 1.6em;"}
+If the state can take your liberty, it must supply counsel when you cannot.
+:::
+
+## Miranda v. Arizona (1966)
+
+::: {.custom-style style="font-size: 1.6em;"}
+Custodial interrogation requires a warning before the state uses your words.
+:::
+
+## Particularity, again
+
+"Seize anything related to the investigation" is not a particular description.
+
+A searchable plate warehouse, queried later, has the same shape.
+
+## Speech is not unlimited
+
+::: {.custom-style style="font-size: 1.6em;"}
+Brandenburg: punish speech directed to inciting imminent lawless action and likely to produce it.
+:::
+
+Advocacy of ugly ideas is not enough.
+
+## Press
+
+::: {.custom-style style="font-size: 1.5em;"}
+Prior restraint is the exception. After-the-fact liability is the ordinary tool.
+:::
+
+## Plessy to Brown
+
+::: {.custom-style style="font-size: 1.6em;"}
+Separate-but-equal was the 1896 settlement. Brown withdrew it.
+:::
+
+## Loving v. Virginia (1967)
+
+::: {.custom-style style="font-size: 1.6em;"}
+A majority may not use marriage law to sort people by race.
+:::
+
+## Texas note
+
+Texas has two high courts.
+
+Criminal-procedure fights often end at the Court of Criminal Appeals before they ever reach the U.S. Supreme Court.
+
+## Recap
+
+- Incorporation is how paper rights reach state force
+- Mapp, Gideon, Miranda are the enforcement tools
+- Speech tests narrowed; civil-rights cases expanded who counts
+- Dual high courts are the Texas fork in the same road
+
+## Top Hat
+
+- T/F: Barron held that the Bill of Rights originally bound the states.
+- MC: Gideon is best described as incorporating the right to:
+- T/F: Brandenburg allows the state to punish any speech that praises violence.
+- Likert: "The exclusionary rule protects rights more than it rewards the guilty."
+
+## Next
+
+::: {.custom-style style="font-size: 1.6em;"}
+Texas policies — or catch-up
+:::
+
+## Reminders
+
+- **Module 3 due November 6** (just closed)
+- Next class: Texas Policies (November 16 / 17)
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)
