@@ -2,10 +2,11 @@
 title: "Lecture 23: Direct Action"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "November 18 / 19, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -20,6 +21,110 @@ format:
 
 # Direct Action
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to treat the First Amendment as a toolkit and place common tactics on a spectrum from petition to civil disobedience.
+:::
+
+## Where this fits
+
+Voting is the most familiar civic act.
+
+It is not the most powerful one.
+
+## The First Amendment package
+
+- Speech — the message
+- Press — the amplifier
+- Assembly — the group
+- Petition — the ask
+
+Texas Article I, §§ 8 and 27 cover the same ground.
+
+## Organized contact
+
+::: {.custom-style style="font-size: 1.6em;"}
+Coordinated calls, mail, and meetings. Petition with a list.
+:::
+
+Low legal risk. High effort. Austin is a bus ride away.
+
+## Protest and marches
+
+::: {.custom-style style="font-size: 1.6em;"}
+Assembly plus speech in public space.
+:::
+
+## Citizen journalism
+
+::: {.custom-style style="font-size: 1.6em;"}
+Document and publish what officials do. That is press.
+:::
+
+## Filming the police
+
+A clearly established First Amendment right in public, if you do not interfere.
+
+*Turner v. Driver* (5th Cir. 2017): a "basic, vital, and well-established liberty."
+
+## Civil disobedience
+
+::: {.custom-style style="font-size: 1.6em;"}
+Public, nonviolent, intentional lawbreaking. Arrest is part of the point.
+:::
+
+This is where First Amendment protection ends.
+
+## Two directions of watching
+
+**Panopticon:** the few watch the many.
+
+**Reverse:** the many watch the few.
+
+## Flock and mass ALPRs
+
+Persistent cameras that store ordinary movement.
+
+Citizen pushback is Direct Action against a general search in slow motion.
+
+## Texas campus test
+
+SB 2972 tried to ban campus "expressive activities" from 10 p.m. to 8 a.m.
+
+A federal judge blocked that piece: "The First Amendment does not have a bedtime."
+
+## Recap
+
+- One toolkit, not four slogans
+- Tactics sit on a risk spectrum
+- Watching runs both directions
+- The live tests are local
+
+## Top Hat
+
+- T/F: Filming on-duty police from a public sidewalk is unprotected in the 5th Circuit.
+- MC: Civil disobedience is best described as:
+- Likert: "More cameras on police improve conduct more than they relocate misconduct."
+- Likert: "A city should need particularized suspicion before querying a stored plate database."
+
+## Next
+
+::: {.custom-style style="font-size: 1.6em;"}
+Ethics of the Citizen — voting as a moral act
+:::
+
+## Reminders
+
+- Thanksgiving break follows this week
+- Next class: Ethics of the Citizen (November 30 / December 1)
+- That is the last content day
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)

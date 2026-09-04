@@ -2,10 +2,11 @@
 title: "Lecture 24: Ethics of the Citizen"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "November 30 / December 1, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -20,6 +21,121 @@ format:
 
 # Ethics of the Citizen
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to treat voting as a moral act — the delegation of coercive force — and apply reciprocity to that choice.
+:::
+
+## Where this fits
+
+We began with ethics and force.
+
+We end with the citizen who hires that force.
+
+## Delegation
+
+::: {.custom-style style="font-size: 1.6em;"}
+Does handing someone else the switch change the ethical problem?
+:::
+
+## Who is the client?
+
+::: {.custom-style style="font-size: 1.6em;"}
+If government derives just power from consent, we are the clients.
+:::
+
+## Brennan's image
+
+::: {.custom-style style="font-size: 1.5em;"}
+"The symbol of democracy is not just the ballot — it is the ballot connected to a gun."
+:::
+
+— Jason Brennan, *The Ethics of Voting*
+
+## Reciprocity
+
+::: {.custom-style style="font-size: 1.4em;"}
+"What is hateful to you, do not do to your neighbor."
+:::
+
+— Hillel the Elder
+
+## Reciprocity and voting
+
+::: {.custom-style style="font-size: 1.4em;"}
+What is hateful to you, do not vote for the government to do to your neighbor.
+:::
+
+## Who is the ruler?
+
+In a democracy, the many.
+
+True vs despotic still turns on common good versus narrow self-interest — now the voters' interest.
+
+## Right versus rightness
+
+::: {.custom-style style="font-size: 1.6em;"}
+The right to vote is not the same thing as the rightness of a particular vote.
+:::
+
+## A hard case you have seen
+
+Texas secession referendum, 1861.
+
+A majority voted to protect slavery and accepted a predictable war.
+
+## Brennan's challenge
+
+No civic duty to vote every time.
+
+If you will not do the work of knowing, consider abstaining.
+
+Do not dress narrow self-interest up as the common good.
+
+## If you do vote
+
+Understand the thing at its core.
+
+Vote to protect equal rights — including your own.
+
+## Direct action, ethically
+
+Is there a responsibility to do more than vote when institutions fail?
+
+Limits: legality, prudence, free-riding, burnout, effectiveness.
+
+## The course in one line
+
+::: {.custom-style style="font-size: 1.6em;"}
+How do we live together peacefully in a society of dignified equals?
+:::
+
+## Recap
+
+- Voting delegates force
+- Reciprocity still binds
+- Franchise and virtue are different questions
+- That is the last content day
+
+## Top Hat
+
+- T/F: Criticizing a vote as unethical means the voter should lose the franchise.
+- MC: Brennan's "ballot connected to a gun" is meant to emphasize:
+- Likert: "Citizens have a duty to vote in every election regardless of how little they know."
+- Likert: "There is sometimes a responsibility to do more than vote."
+
+## Reminders
+
+- This is the last content day
+- Review will be arranged separately
+- Finish outstanding Module work on the published due dates
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)
