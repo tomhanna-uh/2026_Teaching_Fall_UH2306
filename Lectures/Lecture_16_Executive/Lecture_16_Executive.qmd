@@ -1,11 +1,12 @@
 ---
-title: "Lecture 16: The Executive – Defender / Despoiler of Rights"
+title: "Lecture 16: The Executive — Defender and Despoiler of Rights"
 subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "Fall 2026"
+date: "October 21 / 22, 2026"
 format:
   revealjs:
     self-contained: true
+    incremental: true
     transition: convex
     theme: [default, ../../assets/custom.scss]
     logo: ../../assets/logo.jpg
@@ -20,6 +21,139 @@ format:
 
 # The Executive
 
-## Placeholder
+## By the end of today
 
-Content to be developed (Winston-style shared core).
+::: {.custom-style style="font-size: 1.6em;"}
+You will be able to explain why a republic needs an executive strong enough to secure rights and why that same concentrated force is why we constrain it.
+:::
+
+## Where this fits
+
+Congress writes policy.
+
+The executive **implements** it — with force if needed.
+
+That is both the point and the danger.
+
+## Necessary Leviathan
+
+::: {.custom-style style="font-size: 1.7em;"}
+Rights on paper mean little if no one can enforce them.
+:::
+
+## Defender of rights
+
+![Three branches and their core powers](../../assets/3_branches_powers.jpg){fig-alt="Diagram of legislative, executive, and judicial powers" width="80%"}
+
+## What the office actually does
+
+- Execute the laws
+- Command the armed forces
+- Appoint officers
+- Pardon
+- Receive ambassadors
+
+## Take Care
+
+::: {.custom-style style="font-size: 1.6em;"}
+"He shall take Care that the Laws be faithfully executed."
+:::
+
+## Vesting
+
+::: {.custom-style style="font-size: 1.6em;"}
+"The executive Power shall be vested in a President of the United States of America."
+:::
+
+## One person, not a committee
+
+Energy in the executive was Hamilton's argument.
+
+A single accountable officer can act quickly.
+
+That is also why the office is dangerous.
+
+## Despoiler of rights
+
+::: {.custom-style style="font-size: 1.7em;"}
+The same hand that enforces rights can violate them.
+:::
+
+## Remember the king
+
+![King as fused lawgiver, enforcer, and judge](../../assets/king_roles.jfif){fig-alt="Diagram of a king combining lawgiver, enforcer, and judge" width="80%"}
+
+## Why we split the roles
+
+![Congress separates lawmaking from enforcement](../../assets/congress_breaks.jfif){fig-alt="Contrast of fused royal power with separated American branches" width="85%"}
+
+## Concentrated force
+
+![Illustration of abusive or concentrated power](../../assets/abuse_of_power.jpg){fig-alt="Visual cue for abuse of concentrated power"}
+
+The executive is where coercive force is **used**, not just authorized.
+
+## Enforcement is a choice
+
+Which laws get priority.
+
+Which cases get pursued.
+
+Which emergencies get declared.
+
+## The purse still binds
+
+![Power of the purse constraining the executive](../../assets/the_purse.jfif){fig-alt="Illustration of executive power constrained without appropriations" width="80%"}
+
+## Other brakes
+
+- Senate advice and consent
+- Impeachment
+- Courts
+- Elections
+- Four-year term and the 22nd Amendment
+
+## Last personal check
+
+Impeachment: House charges, Senate tries.
+
+Removal is the ultimate personal limit on the executive.
+
+## Texas note — plural executive
+
+![Texas plural executive](../../assets/plural_exec.jfif){fig-alt="Diagram of the Texas plural executive" width="80%"}
+
+Texas splits executive power on purpose: suspicion of a single statewide officer.
+
+## Recap
+
+- We need an executive to make rights real
+- Concentrated force is the standing risk
+- Faithful execution is the job description
+- Congress, courts, and elections are the brakes
+
+## Top Hat
+
+- T/F: The Take Care Clause requires the President to execute the laws Congress has made.
+- MC: Hamilton's argument for a single executive emphasized:
+- Likert: “A strong president is more often a defender of rights than a threat to them.”
+
+## Next
+
+::: {.custom-style style="font-size: 1.6em;"}
+Federal Reserve and independent agencies
+:::
+
+## Reminders
+
+- **Module 3 due November 6**
+- Next class: Federal Reserve (October 26 / 27)
+
+## Authorship and License
+
+Author: Tom Hanna  
+Website: [tomhanna.me](https://tomhanna.me)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+![Creative Commons License](../../assets/creative_commons_license.png)
