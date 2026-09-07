@@ -2,7 +2,7 @@
 title: "Lecture 6: Constitutional Safeguards"
 subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "September 14 / 15, 2026"
+date: September 14, 2026
 format:
   revealjs:
     self-contained: true

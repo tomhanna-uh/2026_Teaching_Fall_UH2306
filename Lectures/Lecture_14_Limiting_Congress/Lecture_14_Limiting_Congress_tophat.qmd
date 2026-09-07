@@ -4,19 +4,16 @@ subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
 date: October 12, 2026
 format:
-  docx:
+  pptx: 
+    reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
     toc: true
+    toc-depth: 1
     number-sections: true
-  revealjs:
-    self-contained: true
-    incremental: true
-    transition: convex
-    theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.png
-    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
-  pptx: {}
-  html:
-    toc: true
+    fig-width: 5.5
+    fig-height: 4
+    fig-caption: true
+    fontsize: 12pt
+    geometry: margin=1in
 ---
 
 ## Today
@@ -157,6 +154,53 @@ In Texas, the **Comptroller** certifies available revenue — a practical outer 
 - Bill of Rights (esp. 9 & 10)
 - 27th Amendment
 
+---
+
+# Top Hat — text bank (remove or hide for live deck)
+
+## Text bank: Limiting Congress
+
+Majority rule still needs limits: Aristotle warned that democracy can mean the many ruling for themselves; Madison warned about majority faction. Crisis mentality and misinformation can push Congress to expand power beyond what long-run progress warrants; even in 1789 ordinary problem-solving was largely private. Enumerated powers mean Congress has only what is granted — not a blank check. Necessary and Proper originally meant necessary and proper, not merely convenient. Article I Section 9 bans include criminal-process limits (habeas, attainder, ex post facto) and anti-aristocracy / anti-corruption rules (titles of nobility, foreign emoluments). The Bill of Rights limits Congress; the 9th and 10th protect unenumerated rights and reserve undelegated powers. Elections are primarily a state responsibility. Bicameralism is an internal brake; originally state legislatures appointed Senators. Presentment and veto, judicial review, and the 27th Amendment (pay changes delayed until after an election) further constrain Congress. In Texas, the Comptroller's revenue certification limits legislative spending.
+
+## Top Hat questions
+
+**Enumerated — T/F:** "Enumerated powers" means Congress may exercise only powers granted by the Constitution.  
+*Answer: True*
+
+**N&P — MC:** On the original understanding stressed in class, Necessary and Proper means roughly:  
+A) Whatever is convenient  
+B) Necessary and proper — not merely convenient  
+C) Only military powers  
+D) Only tax powers  
+*Answer: B*
+
+**§9 — MC:** Bills of attainder and ex post facto laws are examples of:  
+A) Executive privileges  
+B) Criminal-process limits on Congress  
+C) State police powers  
+D) Treaty powers  
+*Answer: B*
+
+**10th — T/F:** The Tenth Amendment reserves powers not delegated to the United States to the states or the people.  
+*Answer: True*
+
+**Senate original — MC:** Under the original Constitution, Senators were chosen by:  
+A) Popular statewide election only  
+B) State legislatures  
+C) The President  
+D) The Supreme Court  
+*Answer: B*
+
+**27th — T/F:** The 27th Amendment delays changes in congressional pay until after an election of Representatives.  
+*Answer: True*
+
+**Judicial review — T/F:** Courts can hold acts of Congress unconstitutional.  
+*Answer: True*
+
+**Synthesis — Likert:** How strongly do you agree: "Judicial review is necessary to keep Congress within enumerated powers."  
+1 = Strongly disagree … 5 = Strongly agree
+
+---
 
 # Next
 

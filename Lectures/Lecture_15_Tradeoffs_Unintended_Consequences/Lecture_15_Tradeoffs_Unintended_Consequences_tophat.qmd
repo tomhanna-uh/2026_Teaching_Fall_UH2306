@@ -4,20 +4,18 @@ subtitle: "GOVT2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
 date: October 19, 2026
 format:
-  docx:
+  pptx: 
+    reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
     toc: true
+    toc-depth: 1
     number-sections: true
-  revealjs:
-    self-contained: true
-    incremental: true
-    transition: convex
-    theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.jpg
-    footer: "UH GOVT2306, Fall 2026 | Tom Hanna"
-  pptx: {}
-  html:
-    toc: true
+    fig-width: 5.5
+    fig-height: 4
+    fig-caption: true
+    fontsize: 12pt
+    geometry: margin=1in
 ---
+
 
 # Trade-offs and Unintended Consequences
 
@@ -173,7 +171,11 @@ Tax rates versus revenue and growth.
 - Enforcement itself carries human costs
 - We limit government for these reasons as well
 
+## Top Hat
 
+- T/F and multiple-choice items on the knowledge problem, trade-offs, and unintended consequences
+- Likert: “When evaluating a new policy I should focus mainly on the problem it claims to solve.”
+- Short text-bank prompts available for AI question generation if needed
 
 ## Next
 

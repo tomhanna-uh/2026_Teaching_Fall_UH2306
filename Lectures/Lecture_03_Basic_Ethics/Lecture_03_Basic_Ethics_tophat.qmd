@@ -2,7 +2,7 @@
 title: "Lecture 3: Basic Ethics"
 subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: "August 31 / September 1, 2026"
+date: August 31, 2026
 format:
   pptx: 
     reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
@@ -14,20 +14,8 @@ format:
     fig-caption: true
     fontsize: 12pt
     geometry: margin=1in
-  revealjs:
-    self-contained: true
-    incremental: true
-    transition: convex
-    theme: [default, ../../assets/custom.scss]
-    logo: ../../assets/logo.png
-    footer: "UH GOVT 2306, Fall 2026 | Tom Hanna"
-  pptx: {}
-  docx:
-    toc: true
-    number-sections: true
-  html:
-    toc: true
 ---
+
 
 ## Today
 

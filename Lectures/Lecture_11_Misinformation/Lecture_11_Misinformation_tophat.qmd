@@ -2,7 +2,7 @@
 title: "Lecture 11: Misinformation"
 subtitle: "GOVT 2306: US and Texas Constitution and Politics"
 author: "Instructor: Tom Hanna"
-date: October 5, 2026
+date: September 11, 2026
 format:
   pptx: 
     reference-doc: C:/Data_Projects/R_Projects/assets/Presentation1.pptx
